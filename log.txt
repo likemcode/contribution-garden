@@ -4,3 +4,4 @@
 2024-01-09T14:34:00: feat: add Snowflake connection utils
 2024-01-10T13:41:00: feat: add schema validation
 2024-01-10T19:50:00: fix: encoding issue in CSV parser
+2024-01-10T11:52:00: docs: document API endpoints
