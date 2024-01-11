@@ -6,3 +6,4 @@
 2024-01-10T19:50:00: fix: encoding issue in CSV parser
 2024-01-10T11:52:00: docs: document API endpoints
 2024-01-10T15:24:00: refactor: clean up Lambda function
+2024-01-11T20:56:00: refactor: use dataclasses instead of dicts
