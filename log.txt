@@ -12,3 +12,4 @@
 2024-01-12T10:22:00: refactor: split monolithic processor
 2024-01-12T18:04:00: refactor: use dataclasses instead of dicts
 2024-01-12T14:40:00: refactor: use dataclasses instead of dicts
+2024-01-13T18:15:00: docs: update README
