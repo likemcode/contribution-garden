@@ -24,3 +24,4 @@
 2024-01-16T22:33:00: fix: encoding issue in CSV parser
 2024-01-16T20:24:00: feat: add OpenSearch index mapping
 2024-01-16T08:57:00: feat: add Kafka consumer group offset tracking
+2024-01-16T10:34:00: docs: update architecture notes
