@@ -25,3 +25,4 @@
 2024-01-16T20:24:00: feat: add OpenSearch index mapping
 2024-01-16T08:57:00: feat: add Kafka consumer group offset tracking
 2024-01-16T10:34:00: docs: update architecture notes
+2024-01-17T20:34:00: docs: add architecture decision record
