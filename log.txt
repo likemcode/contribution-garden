@@ -30,3 +30,4 @@
 2024-01-17T10:24:00: docs: add data dictionary
 2024-01-18T20:16:00: feat: add Power BI dataset refresh trigger
 2024-01-18T09:06:00: docs: update README
+2024-01-19T20:24:00: refactor: use dataclasses instead of dicts
