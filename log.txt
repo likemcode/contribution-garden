@@ -34,3 +34,4 @@
 2024-01-22T21:26:00: feat: add dbt model for Silver layer
 2024-01-23T20:05:00: chore: add pre-commit hooks
 2024-01-23T08:16:00: chore: add gitignore entries
+2024-01-23T10:54:00: docs: update README
