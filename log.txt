@@ -37,3 +37,4 @@
 2024-01-23T10:54:00: docs: update README
 2024-01-23T11:45:00: chore: update dependencies
 2024-01-23T18:31:00: fix: resolve race condition in event consumer
+2024-01-25T09:29:00: feat: add schema validation
