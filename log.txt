@@ -42,3 +42,4 @@
 2024-01-25T22:48:00: feat: add OpenSearch index mapping
 2024-01-25T11:08:00: refactor: clean up Lambda function
 2024-01-25T15:34:00: feat: implement guardrails for AI responses
+2024-01-25T08:25:00: refactor: extract config to env vars
