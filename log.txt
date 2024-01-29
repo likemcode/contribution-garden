@@ -48,3 +48,4 @@
 2024-01-26T18:40:00: docs: document API endpoints
 2024-01-27T16:34:00: feat: add dbt model for Silver layer
 2024-01-27T17:09:00: feat: add Kafka consumer group offset tracking
+2024-01-29T09:50:00: chore: add gitignore entries
