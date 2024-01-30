@@ -56,3 +56,4 @@
 2024-01-30T11:46:00: chore: bump boto3 version
 2024-01-30T16:45:00: docs: add data dictionary
 2024-01-30T15:43:00: chore: add pre-commit hooks
+2024-01-30T20:13:00: docs: update README
