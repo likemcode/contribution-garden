@@ -62,3 +62,4 @@
 2024-01-31T10:55:00: chore: update dependencies
 2024-01-31T16:08:00: docs: document API endpoints
 2024-02-01T18:54:00: feat: add Kafka consumer group offset tracking
+2024-02-01T12:58:00: refactor: split monolithic processor
