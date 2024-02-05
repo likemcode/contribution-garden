@@ -66,3 +66,4 @@
 2024-02-01T09:44:00: feat: add Kafka consumer group offset tracking
 2024-02-01T22:59:00: fix: memory leak in long-running Lambda
 2024-02-02T21:20:00: docs: update architecture notes
+2024-02-05T08:45:00: fix: memory leak in long-running Lambda
