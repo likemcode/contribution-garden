@@ -76,3 +76,4 @@
 2024-02-09T22:40:00: docs: add deployment notes
 2024-02-09T18:58:00: refactor: split monolithic processor
 2024-02-09T15:32:00: docs: update README
+2024-02-09T19:23:00: feat: add retry logic with exponential backoff
