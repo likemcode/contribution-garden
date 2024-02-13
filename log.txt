@@ -83,3 +83,4 @@
 2024-02-12T21:08:00: feat: implement DLQ replay mechanism
 2024-02-12T10:03:00: chore: add pre-commit hooks
 2024-02-13T08:10:00: refactor: use dataclasses instead of dicts
+2024-02-13T14:54:00: fix: encoding issue in CSV parser
