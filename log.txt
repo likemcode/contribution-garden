@@ -98,3 +98,4 @@
 2024-02-20T14:50:00: chore: add gitignore entries
 2024-02-21T18:50:00: refactor: extract config to env vars
 2024-02-21T14:04:00: docs: update architecture notes
+2024-02-22T13:31:00: docs: update architecture notes
