@@ -105,3 +105,4 @@
 2024-02-23T18:05:00: docs: add architecture decision record
 2024-02-23T21:52:00: docs: update architecture notes
 2024-02-23T12:48:00: feat: implement guardrails for AI responses
+2024-02-27T22:18:00: feat: add CDC event handler
