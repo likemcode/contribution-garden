@@ -111,3 +111,4 @@
 2024-02-28T10:23:00: docs: document API endpoints
 2024-02-28T09:22:00: refactor: extract config to env vars
 2024-02-28T11:05:00: feat: add CDC event handler
+2024-02-28T14:50:00: fix: handle null values in stream processor
