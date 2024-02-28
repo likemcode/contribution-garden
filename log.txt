@@ -110,3 +110,4 @@
 2024-02-27T14:04:00: chore: add pre-commit hooks
 2024-02-28T10:23:00: docs: document API endpoints
 2024-02-28T09:22:00: refactor: extract config to env vars
+2024-02-28T11:05:00: feat: add CDC event handler
