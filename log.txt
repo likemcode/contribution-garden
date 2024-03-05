@@ -121,3 +121,4 @@
 2024-03-04T18:23:00: feat: add schema validation
 2024-03-05T13:22:00: fix: timeout handling in API calls
 2024-03-05T17:47:00: refactor: improve data pipeline logic
+2024-03-05T12:41:00: docs: add data dictionary
