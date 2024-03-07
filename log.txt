@@ -124,3 +124,4 @@
 2024-03-05T12:41:00: docs: add data dictionary
 2024-03-06T14:17:00: feat: add CDC event handler
 2024-03-06T19:25:00: docs: update README
+2024-03-07T21:09:00: fix: resolve race condition in event consumer
