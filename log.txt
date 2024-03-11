@@ -129,3 +129,4 @@
 2024-03-07T16:05:00: docs: update README
 2024-03-08T18:55:00: refactor: use dataclasses instead of dicts
 2024-03-11T19:33:00: feat: add Power BI dataset refresh trigger
+2024-03-11T16:36:00: feat: add retry logic with exponential backoff
