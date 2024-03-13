@@ -131,3 +131,4 @@
 2024-03-11T19:33:00: feat: add Power BI dataset refresh trigger
 2024-03-11T16:36:00: feat: add retry logic with exponential backoff
 2024-03-13T15:02:00: feat: implement guardrails for AI responses
+2024-03-13T17:35:00: feat: add Power BI dataset refresh trigger
