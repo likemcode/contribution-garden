@@ -139,3 +139,4 @@
 2024-03-14T08:02:00: feat: add OpenSearch index mapping
 2024-03-14T15:48:00: feat: add OpenSearch index mapping
 2024-03-14T17:04:00: docs: update architecture notes
+2024-03-14T12:22:00: docs: update README
