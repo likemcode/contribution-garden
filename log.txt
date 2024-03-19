@@ -150,3 +150,4 @@
 2024-03-18T22:34:00: refactor: improve data pipeline logic
 2024-03-18T21:45:00: docs: update README
 2024-03-18T19:05:00: feat: add OpenSearch index mapping
+2024-03-19T19:38:00: fix: encoding issue in CSV parser
