@@ -155,3 +155,4 @@
 2024-03-19T20:42:00: fix: memory leak in long-running Lambda
 2024-03-19T11:26:00: docs: add architecture decision record
 2024-03-19T12:11:00: feat: add Kafka consumer group offset tracking
+2024-03-21T12:17:00: chore: add pre-commit hooks
