@@ -162,3 +162,4 @@
 2024-03-22T22:04:00: chore: add pre-commit hooks
 2024-03-22T13:13:00: docs: update architecture notes
 2024-03-23T11:09:00: feat: add OpenSearch index mapping
+2024-03-26T12:48:00: docs: document API endpoints
