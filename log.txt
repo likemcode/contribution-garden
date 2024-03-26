@@ -163,3 +163,4 @@
 2024-03-22T13:13:00: docs: update architecture notes
 2024-03-23T11:09:00: feat: add OpenSearch index mapping
 2024-03-26T12:48:00: docs: document API endpoints
+2024-03-26T18:28:00: fix: timeout handling in API calls
