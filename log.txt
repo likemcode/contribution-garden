@@ -172,3 +172,4 @@
 2024-03-28T10:23:00: refactor: extract config to env vars
 2024-03-29T18:18:00: refactor: use dataclasses instead of dicts
 2024-03-29T10:31:00: refactor: split monolithic processor
+2024-03-30T22:41:00: docs: add deployment notes
