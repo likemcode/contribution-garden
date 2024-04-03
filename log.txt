@@ -176,3 +176,4 @@
 2024-04-01T14:00:00: chore: add pre-commit hooks
 2024-04-03T13:18:00: fix: resolve race condition in event consumer
 2024-04-03T12:17:00: refactor: use dataclasses instead of dicts
+2024-04-03T08:47:00: refactor: use dataclasses instead of dicts
