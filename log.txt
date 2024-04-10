@@ -196,3 +196,4 @@
 2024-04-09T15:26:00: fix: handle null values in stream processor
 2024-04-09T19:01:00: feat: add schema validation
 2024-04-10T09:36:00: feat: add dbt model for Silver layer
+2024-04-10T21:57:00: feat: add CDC event handler
