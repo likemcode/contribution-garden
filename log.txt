@@ -200,3 +200,4 @@
 2024-04-11T19:01:00: chore: add pre-commit hooks
 2024-04-11T09:42:00: refactor: improve data pipeline logic
 2024-04-12T22:02:00: fix: memory leak in long-running Lambda
+2024-04-12T18:58:00: refactor: use dataclasses instead of dicts
