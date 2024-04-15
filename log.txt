@@ -203,3 +203,4 @@
 2024-04-12T18:58:00: refactor: use dataclasses instead of dicts
 2024-04-12T14:50:00: fix: resolve race condition in event consumer
 2024-04-15T12:57:00: fix: timeout handling in API calls
+2024-04-15T11:10:00: docs: update architecture notes
