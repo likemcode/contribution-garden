@@ -208,3 +208,4 @@
 2024-04-16T13:24:00: feat: implement DLQ replay mechanism
 2024-04-17T21:11:00: refactor: extract config to env vars
 2024-04-17T15:54:00: chore: bump boto3 version
+2024-04-17T17:48:00: chore: bump boto3 version
