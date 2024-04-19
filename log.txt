@@ -212,3 +212,4 @@
 2024-04-18T14:40:00: fix: resolve race condition in event consumer
 2024-04-18T09:50:00: chore: add gitignore entries
 2024-04-18T12:04:00: feat: add dbt model for Silver layer
+2024-04-19T10:16:00: fix: encoding issue in CSV parser
