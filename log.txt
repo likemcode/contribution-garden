@@ -220,3 +220,4 @@
 2024-04-22T08:49:00: feat: add schema validation
 2024-04-24T21:03:00: fix: timeout handling in API calls
 2024-04-24T11:00:00: refactor: extract config to env vars
+2024-04-24T10:48:00: refactor: use dataclasses instead of dicts
