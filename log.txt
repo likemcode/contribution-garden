@@ -222,3 +222,4 @@
 2024-04-24T11:00:00: refactor: extract config to env vars
 2024-04-24T10:48:00: refactor: use dataclasses instead of dicts
 2024-04-27T14:17:00: feat: add Kafka consumer group offset tracking
+2024-04-27T09:07:00: fix: memory leak in long-running Lambda
