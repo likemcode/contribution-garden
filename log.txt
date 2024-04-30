@@ -229,3 +229,4 @@
 2024-04-29T18:03:00: chore: add gitignore entries
 2024-04-30T14:16:00: feat: add CDC event handler
 2024-04-30T18:33:00: feat: add Kafka consumer group offset tracking
+2024-04-30T13:09:00: docs: update architecture notes
