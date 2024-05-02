@@ -239,3 +239,4 @@
 2024-05-02T19:36:00: docs: update README
 2024-05-02T15:10:00: docs: add data dictionary
 2024-05-02T11:11:00: feat: add OpenSearch index mapping
+2024-05-02T21:10:00: feat: add Snowflake connection utils
