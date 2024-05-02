@@ -236,3 +236,4 @@
 2024-05-01T11:35:00: docs: add deployment notes
 2024-05-01T17:17:00: feat: add dbt model for Silver layer
 2024-05-01T08:53:00: feat: add Power BI dataset refresh trigger
+2024-05-02T19:36:00: docs: update README
