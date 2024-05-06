@@ -243,3 +243,4 @@
 2024-05-02T12:53:00: feat: add retry logic with exponential backoff
 2024-05-06T19:27:00: fix: resolve race condition in event consumer
 2024-05-06T21:18:00: refactor: use dataclasses instead of dicts
+2024-05-06T17:31:00: refactor: use dataclasses instead of dicts
