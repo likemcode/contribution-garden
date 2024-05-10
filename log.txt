@@ -248,3 +248,4 @@
 2024-05-08T12:43:00: fix: encoding issue in CSV parser
 2024-05-10T21:23:00: docs: add data dictionary
 2024-05-10T18:10:00: feat: add schema validation
+2024-05-10T11:12:00: docs: update architecture notes
