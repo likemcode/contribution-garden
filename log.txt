@@ -246,3 +246,4 @@
 2024-05-06T17:31:00: refactor: use dataclasses instead of dicts
 2024-05-08T21:52:00: refactor: split monolithic processor
 2024-05-08T12:43:00: fix: encoding issue in CSV parser
+2024-05-10T21:23:00: docs: add data dictionary
