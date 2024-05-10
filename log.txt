@@ -252,3 +252,4 @@
 2024-05-10T12:23:00: chore: update dependencies
 2024-05-10T09:56:00: chore: update dependencies
 2024-05-10T12:58:00: feat: add retry logic with exponential backoff
+2024-05-10T16:35:00: docs: document API endpoints
