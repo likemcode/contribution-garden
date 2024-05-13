@@ -258,3 +258,4 @@
 2024-05-11T16:11:00: feat: implement DLQ replay mechanism
 2024-05-13T18:55:00: fix: encoding issue in CSV parser
 2024-05-13T21:35:00: chore: add gitignore entries
+2024-05-13T18:11:00: feat: add Kafka consumer group offset tracking
