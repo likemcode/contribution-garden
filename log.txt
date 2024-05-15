@@ -259,3 +259,4 @@
 2024-05-13T18:55:00: fix: encoding issue in CSV parser
 2024-05-13T21:35:00: chore: add gitignore entries
 2024-05-13T18:11:00: feat: add Kafka consumer group offset tracking
+2024-05-15T16:02:00: fix: resolve race condition in event consumer
