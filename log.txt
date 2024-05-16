@@ -268,3 +268,4 @@
 2024-05-16T15:09:00: fix: resolve race condition in event consumer
 2024-05-16T17:21:00: feat: add dbt model for Silver layer
 2024-05-16T22:15:00: refactor: clean up Lambda function
+2024-05-16T17:42:00: feat: add CDC event handler
