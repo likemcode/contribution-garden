@@ -276,3 +276,4 @@
 2024-05-17T08:29:00: chore: bump boto3 version
 2024-05-17T16:05:00: docs: update README
 2024-05-17T19:42:00: feat: add OpenSearch index mapping
+2024-05-19T19:40:00: feat: add dbt model for Silver layer
