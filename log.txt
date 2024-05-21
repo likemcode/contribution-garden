@@ -284,3 +284,4 @@
 2024-05-20T10:50:00: refactor: extract config to env vars
 2024-05-20T14:04:00: feat: add CDC event handler
 2024-05-21T12:08:00: fix: encoding issue in CSV parser
+2024-05-21T14:19:00: refactor: use dataclasses instead of dicts
