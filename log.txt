@@ -291,3 +291,4 @@
 2024-05-24T17:16:00: chore: add pre-commit hooks
 2024-05-24T20:17:00: feat: add dbt model for Silver layer
 2024-05-25T22:41:00: feat: add Kafka consumer group offset tracking
+2024-05-25T10:57:00: fix: handle null values in stream processor
