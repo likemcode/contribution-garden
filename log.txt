@@ -300,3 +300,4 @@
 2024-05-27T09:45:00: docs: document API endpoints
 2024-05-29T14:50:00: chore: add pre-commit hooks
 2024-05-29T08:04:00: feat: add Snowflake connection utils
+2024-05-29T20:31:00: docs: add deployment notes
