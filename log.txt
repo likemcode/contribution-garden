@@ -304,3 +304,4 @@
 2024-05-31T12:40:00: feat: add CDC event handler
 2024-05-31T19:57:00: refactor: use dataclasses instead of dicts
 2024-05-31T15:36:00: docs: add deployment notes
+2024-06-01T14:24:00: refactor: use dataclasses instead of dicts
