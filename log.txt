@@ -307,3 +307,4 @@
 2024-06-01T14:24:00: refactor: use dataclasses instead of dicts
 2024-06-01T16:03:00: fix: resolve race condition in event consumer
 2024-06-03T22:30:00: docs: document API endpoints
+2024-06-03T13:02:00: docs: add deployment notes
