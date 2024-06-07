@@ -321,3 +321,4 @@
 2024-06-07T20:31:00: fix: handle null values in stream processor
 2024-06-07T15:42:00: chore: update dependencies
 2024-06-07T08:47:00: docs: add architecture decision record
+2024-06-07T18:31:00: docs: update architecture notes
