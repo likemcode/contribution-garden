@@ -323,3 +323,4 @@
 2024-06-07T08:47:00: docs: add architecture decision record
 2024-06-07T18:31:00: docs: update architecture notes
 2024-06-07T22:05:00: feat: implement DLQ replay mechanism
+2024-06-07T08:29:00: docs: add data dictionary
