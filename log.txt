@@ -326,3 +326,4 @@
 2024-06-07T08:29:00: docs: add data dictionary
 2024-06-11T09:48:00: refactor: split monolithic processor
 2024-06-11T21:55:00: fix: handle null values in stream processor
+2024-06-11T12:41:00: docs: update architecture notes
