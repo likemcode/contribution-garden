@@ -335,3 +335,4 @@
 2024-06-12T20:58:00: refactor: extract config to env vars
 2024-06-12T20:58:00: docs: add data dictionary
 2024-06-13T20:49:00: docs: update README
+2024-06-13T17:30:00: chore: add pre-commit hooks
