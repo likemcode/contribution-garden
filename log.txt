@@ -340,3 +340,4 @@
 2024-06-14T11:10:00: feat: add Power BI dataset refresh trigger
 2024-06-14T15:57:00: chore: add gitignore entries
 2024-06-14T11:50:00: fix: memory leak in long-running Lambda
+2024-06-14T22:38:00: chore: bump boto3 version
