@@ -338,3 +338,4 @@
 2024-06-13T17:30:00: chore: add pre-commit hooks
 2024-06-13T12:41:00: feat: add CDC event handler
 2024-06-14T11:10:00: feat: add Power BI dataset refresh trigger
+2024-06-14T15:57:00: chore: add gitignore entries
