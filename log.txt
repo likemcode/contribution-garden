@@ -354,3 +354,4 @@
 2024-06-19T11:47:00: feat: add Snowflake connection utils
 2024-06-20T14:46:00: refactor: improve data pipeline logic
 2024-06-20T13:48:00: chore: add gitignore entries
+2024-06-20T09:51:00: docs: add deployment notes
