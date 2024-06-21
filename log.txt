@@ -356,3 +356,4 @@
 2024-06-20T13:48:00: chore: add gitignore entries
 2024-06-20T09:51:00: docs: add deployment notes
 2024-06-21T08:36:00: feat: add Snowflake connection utils
+2024-06-21T16:49:00: feat: add CDC event handler
