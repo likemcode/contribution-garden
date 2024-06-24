@@ -359,3 +359,4 @@
 2024-06-21T16:49:00: feat: add CDC event handler
 2024-06-21T18:50:00: refactor: clean up Lambda function
 2024-06-24T15:13:00: chore: add pre-commit hooks
+2024-06-24T18:36:00: feat: implement guardrails for AI responses
