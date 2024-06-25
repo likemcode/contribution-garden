@@ -363,3 +363,4 @@
 2024-06-24T11:59:00: fix: resolve race condition in event consumer
 2024-06-24T13:46:00: docs: add deployment notes
 2024-06-25T16:34:00: chore: add pre-commit hooks
+2024-06-25T21:45:00: feat: add CDC event handler
