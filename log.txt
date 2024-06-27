@@ -369,3 +369,4 @@
 2024-06-26T10:33:00: chore: update dependencies
 2024-06-26T10:59:00: feat: add Kafka consumer group offset tracking
 2024-06-27T22:35:00: docs: update README
+2024-06-27T14:55:00: feat: add retry logic with exponential backoff
