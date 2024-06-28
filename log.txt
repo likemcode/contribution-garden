@@ -376,3 +376,4 @@
 2024-06-27T13:22:00: feat: add retry logic with exponential backoff
 2024-06-28T19:53:00: refactor: use dataclasses instead of dicts
 2024-06-28T10:38:00: feat: add CDC event handler
+2024-06-28T19:49:00: docs: add deployment notes
