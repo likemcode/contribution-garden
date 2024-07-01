@@ -380,3 +380,4 @@
 2024-06-28T08:43:00: fix: resolve race condition in event consumer
 2024-06-28T14:51:00: feat: implement guardrails for AI responses
 2024-06-28T12:25:00: feat: add dbt model for Silver layer
+2024-07-01T14:49:00: docs: add architecture decision record
