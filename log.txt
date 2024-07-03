@@ -382,3 +382,4 @@
 2024-06-28T12:25:00: feat: add dbt model for Silver layer
 2024-07-01T14:49:00: docs: add architecture decision record
 2024-07-01T19:12:00: feat: add dbt model for Silver layer
+2024-07-03T18:42:00: fix: encoding issue in CSV parser
