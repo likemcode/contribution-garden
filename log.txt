@@ -384,3 +384,4 @@
 2024-07-01T19:12:00: feat: add dbt model for Silver layer
 2024-07-03T18:42:00: fix: encoding issue in CSV parser
 2024-07-03T14:55:00: fix: handle null values in stream processor
+2024-07-03T13:24:00: refactor: extract config to env vars
