@@ -390,3 +390,4 @@
 2024-07-08T19:32:00: chore: add gitignore entries
 2024-07-08T16:37:00: fix: resolve race condition in event consumer
 2024-07-08T10:18:00: docs: update README
+2024-07-08T21:36:00: refactor: use dataclasses instead of dicts
