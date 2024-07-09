@@ -391,3 +391,4 @@
 2024-07-08T16:37:00: fix: resolve race condition in event consumer
 2024-07-08T10:18:00: docs: update README
 2024-07-08T21:36:00: refactor: use dataclasses instead of dicts
+2024-07-09T08:56:00: feat: add CDC event handler
