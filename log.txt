@@ -410,3 +410,4 @@
 2024-07-15T08:22:00: chore: update dependencies
 2024-07-15T11:57:00: chore: bump boto3 version
 2024-07-16T13:00:00: feat: add Kafka consumer group offset tracking
+2024-07-16T12:59:00: fix: handle null values in stream processor
