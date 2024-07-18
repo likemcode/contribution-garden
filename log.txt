@@ -416,3 +416,4 @@
 2024-07-16T15:18:00: feat: add CDC event handler
 2024-07-17T08:07:00: feat: add Kafka consumer group offset tracking
 2024-07-17T21:33:00: refactor: clean up Lambda function
+2024-07-18T17:55:00: feat: add Kafka consumer group offset tracking
