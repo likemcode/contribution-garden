@@ -420,3 +420,4 @@
 2024-07-18T16:17:00: feat: implement guardrails for AI responses
 2024-07-18T16:48:00: refactor: use dataclasses instead of dicts
 2024-07-18T14:47:00: feat: add OpenSearch index mapping
+2024-07-18T13:25:00: docs: update architecture notes
