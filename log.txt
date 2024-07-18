@@ -419,3 +419,4 @@
 2024-07-18T17:55:00: feat: add Kafka consumer group offset tracking
 2024-07-18T16:17:00: feat: implement guardrails for AI responses
 2024-07-18T16:48:00: refactor: use dataclasses instead of dicts
+2024-07-18T14:47:00: feat: add OpenSearch index mapping
