@@ -433,3 +433,4 @@
 2024-07-23T19:35:00: fix: timeout handling in API calls
 2024-07-23T08:28:00: refactor: improve data pipeline logic
 2024-07-25T17:47:00: docs: add architecture decision record
+2024-07-25T10:05:00: docs: document API endpoints
