@@ -436,3 +436,4 @@
 2024-07-25T10:05:00: docs: document API endpoints
 2024-07-26T10:38:00: fix: memory leak in long-running Lambda
 2024-07-26T13:55:00: refactor: split monolithic processor
+2024-07-26T16:57:00: fix: resolve race condition in event consumer
