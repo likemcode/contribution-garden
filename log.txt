@@ -441,3 +441,4 @@
 2024-07-27T13:53:00: docs: add data dictionary
 2024-07-27T20:42:00: feat: add schema validation
 2024-07-27T08:16:00: docs: add data dictionary
+2024-07-30T09:34:00: refactor: use dataclasses instead of dicts
