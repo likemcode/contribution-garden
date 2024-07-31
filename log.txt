@@ -444,3 +444,4 @@
 2024-07-30T09:34:00: refactor: use dataclasses instead of dicts
 2024-07-31T08:28:00: docs: add architecture decision record
 2024-07-31T12:26:00: docs: add data dictionary
+2024-07-31T08:01:00: feat: add schema validation
