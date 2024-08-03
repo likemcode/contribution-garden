@@ -455,3 +455,4 @@
 2024-08-02T21:06:00: refactor: use dataclasses instead of dicts
 2024-08-02T11:02:00: chore: add pre-commit hooks
 2024-08-02T14:54:00: chore: add pre-commit hooks
+2024-08-03T21:11:00: refactor: extract config to env vars
