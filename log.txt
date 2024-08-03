@@ -458,3 +458,4 @@
 2024-08-03T21:11:00: refactor: extract config to env vars
 2024-08-03T22:57:00: refactor: extract config to env vars
 2024-08-03T13:22:00: feat: add dbt model for Silver layer
+2024-08-03T08:46:00: refactor: extract config to env vars
