@@ -461,3 +461,4 @@
 2024-08-03T08:46:00: refactor: extract config to env vars
 2024-08-05T12:39:00: fix: handle null values in stream processor
 2024-08-05T11:18:00: docs: add architecture decision record
+2024-08-05T11:07:00: chore: add gitignore entries
