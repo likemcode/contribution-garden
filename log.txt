@@ -471,3 +471,4 @@
 2024-08-09T17:05:00: fix: encoding issue in CSV parser
 2024-08-10T10:49:00: fix: resolve race condition in event consumer
 2024-08-10T20:28:00: fix: handle null values in stream processor
+2024-08-10T14:28:00: feat: add OpenSearch index mapping
