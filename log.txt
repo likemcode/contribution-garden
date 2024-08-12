@@ -472,3 +472,4 @@
 2024-08-10T10:49:00: fix: resolve race condition in event consumer
 2024-08-10T20:28:00: fix: handle null values in stream processor
 2024-08-10T14:28:00: feat: add OpenSearch index mapping
+2024-08-12T11:16:00: docs: add deployment notes
