@@ -477,3 +477,4 @@
 2024-08-12T10:21:00: refactor: improve data pipeline logic
 2024-08-14T20:11:00: docs: update README
 2024-08-14T11:11:00: fix: timeout handling in API calls
+2024-08-14T17:03:00: feat: add dbt model for Silver layer
