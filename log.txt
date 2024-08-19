@@ -484,3 +484,4 @@
 2024-08-16T16:36:00: chore: add gitignore entries
 2024-08-16T21:49:00: fix: handle null values in stream processor
 2024-08-19T09:43:00: feat: add retry logic with exponential backoff
+2024-08-19T09:47:00: docs: update README
