@@ -488,3 +488,4 @@
 2024-08-19T17:26:00: feat: add Snowflake connection utils
 2024-08-19T17:00:00: docs: document API endpoints
 2024-08-21T15:31:00: feat: add schema validation
+2024-08-21T18:29:00: fix: handle null values in stream processor
