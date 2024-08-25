@@ -499,3 +499,4 @@
 2024-08-23T15:41:00: feat: implement DLQ replay mechanism
 2024-08-24T19:06:00: docs: add data dictionary
 2024-08-25T10:59:00: chore: add pre-commit hooks
+2024-08-25T09:49:00: feat: add OpenSearch index mapping
