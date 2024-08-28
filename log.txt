@@ -508,3 +508,4 @@
 2024-08-26T19:04:00: fix: resolve race condition in event consumer
 2024-08-28T08:50:00: feat: add Snowflake connection utils
 2024-08-28T15:35:00: feat: add Snowflake connection utils
+2024-08-28T22:19:00: refactor: split monolithic processor
