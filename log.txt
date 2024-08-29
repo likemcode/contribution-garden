@@ -512,3 +512,4 @@
 2024-08-28T16:35:00: fix: timeout handling in API calls
 2024-08-29T17:15:00: fix: timeout handling in API calls
 2024-08-29T10:25:00: docs: add data dictionary
+2024-08-29T15:06:00: fix: resolve race condition in event consumer
