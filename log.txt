@@ -514,3 +514,4 @@
 2024-08-29T10:25:00: docs: add data dictionary
 2024-08-29T15:06:00: fix: resolve race condition in event consumer
 2024-08-29T22:48:00: refactor: split monolithic processor
+2024-08-29T21:37:00: refactor: extract config to env vars
