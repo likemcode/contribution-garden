@@ -520,3 +520,4 @@
 2024-08-30T19:52:00: fix: resolve race condition in event consumer
 2024-08-30T18:30:00: fix: memory leak in long-running Lambda
 2024-08-30T14:28:00: fix: memory leak in long-running Lambda
+2024-08-30T10:54:00: docs: add data dictionary
