@@ -516,3 +516,4 @@
 2024-08-29T22:48:00: refactor: split monolithic processor
 2024-08-29T21:37:00: refactor: extract config to env vars
 2024-08-30T21:46:00: chore: add gitignore entries
+2024-08-30T17:42:00: fix: timeout handling in API calls
