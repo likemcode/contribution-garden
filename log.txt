@@ -528,3 +528,4 @@
 2024-09-03T08:11:00: fix: timeout handling in API calls
 2024-09-03T11:31:00: feat: add schema validation
 2024-09-03T15:49:00: feat: add Kafka consumer group offset tracking
+2024-09-04T15:09:00: feat: add retry logic with exponential backoff
