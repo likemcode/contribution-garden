@@ -530,3 +530,4 @@
 2024-09-03T15:49:00: feat: add Kafka consumer group offset tracking
 2024-09-04T15:09:00: feat: add retry logic with exponential backoff
 2024-09-04T15:24:00: feat: implement DLQ replay mechanism
+2024-09-05T10:30:00: docs: update README
