@@ -532,3 +532,4 @@
 2024-09-04T15:24:00: feat: implement DLQ replay mechanism
 2024-09-05T10:30:00: docs: update README
 2024-09-05T14:40:00: feat: implement DLQ replay mechanism
+2024-09-05T17:56:00: fix: timeout handling in API calls
