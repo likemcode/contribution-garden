@@ -548,3 +548,4 @@
 2024-09-13T19:34:00: docs: add architecture decision record
 2024-09-13T15:05:00: feat: add OpenSearch index mapping
 2024-09-14T15:38:00: fix: resolve race condition in event consumer
+2024-09-14T10:32:00: feat: add CDC event handler
