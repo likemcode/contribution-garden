@@ -552,3 +552,4 @@
 2024-09-14T15:50:00: fix: encoding issue in CSV parser
 2024-09-16T08:54:00: feat: add dbt model for Silver layer
 2024-09-16T19:47:00: feat: add Power BI dataset refresh trigger
+2024-09-16T22:29:00: fix: handle null values in stream processor
