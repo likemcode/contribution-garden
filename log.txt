@@ -550,3 +550,4 @@
 2024-09-14T15:38:00: fix: resolve race condition in event consumer
 2024-09-14T10:32:00: feat: add CDC event handler
 2024-09-14T15:50:00: fix: encoding issue in CSV parser
+2024-09-16T08:54:00: feat: add dbt model for Silver layer
