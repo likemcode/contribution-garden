@@ -551,3 +551,4 @@
 2024-09-14T10:32:00: feat: add CDC event handler
 2024-09-14T15:50:00: fix: encoding issue in CSV parser
 2024-09-16T08:54:00: feat: add dbt model for Silver layer
+2024-09-16T19:47:00: feat: add Power BI dataset refresh trigger
