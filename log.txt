@@ -560,3 +560,4 @@
 2024-09-17T21:15:00: fix: handle null values in stream processor
 2024-09-17T19:28:00: feat: add CDC event handler
 2024-09-20T21:19:00: fix: resolve race condition in event consumer
+2024-09-20T15:03:00: chore: bump boto3 version
