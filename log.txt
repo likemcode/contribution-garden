@@ -572,3 +572,4 @@
 2024-09-25T11:39:00: chore: add pre-commit hooks
 2024-09-25T10:14:00: fix: memory leak in long-running Lambda
 2024-09-25T11:28:00: docs: add architecture decision record
+2024-09-26T22:23:00: refactor: extract config to env vars
