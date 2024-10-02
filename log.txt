@@ -580,3 +580,4 @@
 2024-09-28T14:51:00: feat: add Snowflake connection utils
 2024-09-28T21:08:00: feat: add Kafka consumer group offset tracking
 2024-09-28T20:31:00: feat: implement DLQ replay mechanism
+2024-10-02T19:41:00: feat: add OpenSearch index mapping
