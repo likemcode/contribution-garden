@@ -595,3 +595,4 @@
 2024-10-04T09:23:00: chore: add gitignore entries
 2024-10-04T12:53:00: feat: add dbt model for Silver layer
 2024-10-07T12:41:00: fix: encoding issue in CSV parser
+2024-10-07T22:17:00: feat: implement guardrails for AI responses
