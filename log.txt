@@ -603,3 +603,4 @@
 2024-10-09T15:41:00: chore: bump boto3 version
 2024-10-09T11:15:00: refactor: extract config to env vars
 2024-10-09T20:37:00: refactor: use dataclasses instead of dicts
+2024-10-09T20:24:00: docs: update architecture notes
