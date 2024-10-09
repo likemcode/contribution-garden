@@ -601,3 +601,4 @@
 2024-10-07T12:55:00: feat: add Snowflake connection utils
 2024-10-08T20:53:00: feat: implement DLQ replay mechanism
 2024-10-09T15:41:00: chore: bump boto3 version
+2024-10-09T11:15:00: refactor: extract config to env vars
