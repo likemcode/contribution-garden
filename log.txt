@@ -605,3 +605,4 @@
 2024-10-09T20:37:00: refactor: use dataclasses instead of dicts
 2024-10-09T20:24:00: docs: update architecture notes
 2024-10-11T09:54:00: refactor: split monolithic processor
+2024-10-11T17:32:00: fix: encoding issue in CSV parser
