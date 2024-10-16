@@ -614,3 +614,4 @@
 2024-10-12T10:02:00: fix: resolve race condition in event consumer
 2024-10-14T17:09:00: chore: add gitignore entries
 2024-10-16T20:22:00: refactor: extract config to env vars
+2024-10-16T10:25:00: chore: bump boto3 version
