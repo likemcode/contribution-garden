@@ -616,3 +616,4 @@
 2024-10-16T20:22:00: refactor: extract config to env vars
 2024-10-16T10:25:00: chore: bump boto3 version
 2024-10-16T19:40:00: docs: document API endpoints
+2024-10-21T14:25:00: docs: add architecture decision record
