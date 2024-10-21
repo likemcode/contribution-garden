@@ -617,3 +617,4 @@
 2024-10-16T10:25:00: chore: bump boto3 version
 2024-10-16T19:40:00: docs: document API endpoints
 2024-10-21T14:25:00: docs: add architecture decision record
+2024-10-21T11:11:00: feat: add schema validation
