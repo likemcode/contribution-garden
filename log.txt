@@ -621,3 +621,4 @@
 2024-10-21T17:10:00: feat: add Kafka consumer group offset tracking
 2024-10-21T17:54:00: feat: add CDC event handler
 2024-10-22T18:50:00: feat: add Snowflake connection utils
+2024-10-22T22:58:00: feat: implement DLQ replay mechanism
