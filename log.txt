@@ -630,3 +630,4 @@
 2024-10-23T11:25:00: feat: add retry logic with exponential backoff
 2024-10-23T21:05:00: feat: add retry logic with exponential backoff
 2024-10-24T20:45:00: feat: add CDC event handler
+2024-10-24T08:58:00: docs: update architecture notes
