@@ -678,3 +678,4 @@
 2024-11-08T08:42:00: feat: add Snowflake connection utils
 2024-11-08T12:56:00: feat: add OpenSearch index mapping
 2024-11-08T20:54:00: chore: add pre-commit hooks
+2024-11-11T14:04:00: docs: update architecture notes
