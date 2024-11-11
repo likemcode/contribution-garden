@@ -681,3 +681,4 @@
 2024-11-11T14:04:00: docs: update architecture notes
 2024-11-11T16:00:00: fix: timeout handling in API calls
 2024-11-11T19:27:00: feat: implement DLQ replay mechanism
+2024-11-11T18:14:00: fix: encoding issue in CSV parser
