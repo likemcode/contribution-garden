@@ -684,3 +684,4 @@
 2024-11-11T18:14:00: fix: encoding issue in CSV parser
 2024-11-13T09:08:00: fix: memory leak in long-running Lambda
 2024-11-13T15:44:00: refactor: improve data pipeline logic
+2024-11-13T18:57:00: feat: add CDC event handler
