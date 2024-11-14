@@ -689,3 +689,4 @@
 2024-11-13T09:45:00: feat: add Snowflake connection utils
 2024-11-14T13:55:00: feat: add CDC event handler
 2024-11-14T15:01:00: docs: update architecture notes
+2024-11-14T15:28:00: docs: update README
