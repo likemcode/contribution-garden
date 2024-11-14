@@ -687,3 +687,4 @@
 2024-11-13T18:57:00: feat: add CDC event handler
 2024-11-13T09:10:00: refactor: clean up Lambda function
 2024-11-13T09:45:00: feat: add Snowflake connection utils
+2024-11-14T13:55:00: feat: add CDC event handler
