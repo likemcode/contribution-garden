@@ -700,3 +700,4 @@
 2024-11-19T14:50:00: chore: add gitignore entries
 2024-11-19T18:38:00: feat: implement guardrails for AI responses
 2024-11-19T13:47:00: feat: add CDC event handler
+2024-11-20T12:45:00: refactor: extract config to env vars
