@@ -712,3 +712,4 @@
 2024-11-25T16:35:00: docs: update architecture notes
 2024-11-25T10:25:00: feat: implement DLQ replay mechanism
 2024-11-25T20:06:00: docs: document API endpoints
+2024-11-25T19:37:00: feat: add Power BI dataset refresh trigger
