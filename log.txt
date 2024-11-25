@@ -709,3 +709,4 @@
 2024-11-22T12:54:00: docs: add data dictionary
 2024-11-22T10:26:00: refactor: use dataclasses instead of dicts
 2024-11-25T19:27:00: refactor: improve data pipeline logic
+2024-11-25T16:35:00: docs: update architecture notes
