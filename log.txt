@@ -725,3 +725,4 @@
 2024-12-02T19:39:00: chore: add pre-commit hooks
 2024-12-02T11:07:00: fix: memory leak in long-running Lambda
 2024-12-03T13:09:00: feat: implement DLQ replay mechanism
+2024-12-03T12:55:00: docs: add architecture decision record
