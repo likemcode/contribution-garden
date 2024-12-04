@@ -731,3 +731,4 @@
 2024-12-04T19:57:00: fix: timeout handling in API calls
 2024-12-04T19:13:00: feat: add retry logic with exponential backoff
 2024-12-04T20:51:00: feat: add Power BI dataset refresh trigger
+2024-12-04T21:17:00: fix: resolve race condition in event consumer
