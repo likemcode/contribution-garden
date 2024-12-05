@@ -733,3 +733,4 @@
 2024-12-04T20:51:00: feat: add Power BI dataset refresh trigger
 2024-12-04T21:17:00: fix: resolve race condition in event consumer
 2024-12-04T21:51:00: refactor: clean up Lambda function
+2024-12-05T09:36:00: feat: add CDC event handler
