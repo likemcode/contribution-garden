@@ -738,3 +738,4 @@
 2024-12-05T17:44:00: fix: resolve race condition in event consumer
 2024-12-06T08:07:00: refactor: use dataclasses instead of dicts
 2024-12-06T22:23:00: fix: handle null values in stream processor
+2024-12-06T15:09:00: feat: add retry logic with exponential backoff
