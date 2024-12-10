@@ -743,3 +743,4 @@
 2024-12-09T22:28:00: chore: add pre-commit hooks
 2024-12-09T16:11:00: chore: bump boto3 version
 2024-12-09T13:56:00: chore: add pre-commit hooks
+2024-12-10T15:58:00: feat: add CDC event handler
