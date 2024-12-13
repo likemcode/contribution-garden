@@ -757,3 +757,4 @@
 2024-12-11T09:41:00: feat: add retry logic with exponential backoff
 2024-12-12T09:16:00: fix: handle null values in stream processor
 2024-12-12T15:11:00: refactor: use dataclasses instead of dicts
+2024-12-13T22:48:00: feat: add dbt model for Silver layer
