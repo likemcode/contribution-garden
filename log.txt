@@ -759,3 +759,4 @@
 2024-12-12T15:11:00: refactor: use dataclasses instead of dicts
 2024-12-13T22:48:00: feat: add dbt model for Silver layer
 2024-12-14T08:03:00: fix: resolve race condition in event consumer
+2024-12-16T17:02:00: refactor: clean up Lambda function
