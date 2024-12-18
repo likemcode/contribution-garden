@@ -767,3 +767,4 @@
 2024-12-16T11:48:00: fix: timeout handling in API calls
 2024-12-16T13:03:00: docs: update README
 2024-12-18T14:40:00: chore: add pre-commit hooks
+2024-12-18T15:13:00: feat: implement guardrails for AI responses
