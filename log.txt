@@ -777,3 +777,4 @@
 2024-12-20T12:46:00: refactor: use dataclasses instead of dicts
 2024-12-23T10:04:00: refactor: split monolithic processor
 2024-12-23T15:27:00: refactor: use dataclasses instead of dicts
+2024-12-23T13:09:00: feat: add Snowflake connection utils
