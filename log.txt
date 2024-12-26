@@ -784,3 +784,4 @@
 2024-12-25T15:59:00: feat: add dbt model for Silver layer
 2024-12-25T14:08:00: feat: add Kafka consumer group offset tracking
 2024-12-26T19:38:00: fix: encoding issue in CSV parser
+2024-12-26T20:45:00: feat: add CDC event handler
