@@ -783,3 +783,4 @@
 2024-12-25T20:15:00: refactor: use dataclasses instead of dicts
 2024-12-25T15:59:00: feat: add dbt model for Silver layer
 2024-12-25T14:08:00: feat: add Kafka consumer group offset tracking
+2024-12-26T19:38:00: fix: encoding issue in CSV parser
