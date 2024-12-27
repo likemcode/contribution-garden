@@ -786,3 +786,4 @@
 2024-12-26T19:38:00: fix: encoding issue in CSV parser
 2024-12-26T20:45:00: feat: add CDC event handler
 2024-12-26T14:24:00: fix: handle null values in stream processor
+2024-12-27T11:17:00: docs: update architecture notes
