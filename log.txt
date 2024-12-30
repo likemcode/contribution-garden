@@ -791,3 +791,4 @@
 2024-12-28T10:23:00: fix: memory leak in long-running Lambda
 2024-12-28T21:09:00: docs: add architecture decision record
 2024-12-30T15:29:00: docs: update architecture notes
+2024-12-30T15:33:00: feat: add retry logic with exponential backoff
