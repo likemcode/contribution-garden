@@ -796,3 +796,4 @@
 2024-12-30T13:23:00: feat: add dbt model for Silver layer
 2024-12-30T19:15:00: chore: add pre-commit hooks
 2025-01-01T15:54:00: feat: implement guardrails for AI responses
+2025-01-01T08:28:00: feat: add Snowflake connection utils
