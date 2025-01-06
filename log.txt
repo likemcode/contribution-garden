@@ -806,3 +806,4 @@
 2025-01-04T16:09:00: feat: add CDC event handler
 2025-01-04T14:14:00: fix: timeout handling in API calls
 2025-01-06T19:33:00: refactor: clean up Lambda function
+2025-01-06T11:41:00: feat: add schema validation
