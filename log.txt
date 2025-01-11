@@ -817,3 +817,4 @@
 2025-01-10T21:08:00: docs: add data dictionary
 2025-01-11T14:07:00: refactor: improve data pipeline logic
 2025-01-11T14:55:00: feat: add Snowflake connection utils
+2025-01-11T21:37:00: docs: document API endpoints
