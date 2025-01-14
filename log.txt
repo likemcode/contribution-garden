@@ -831,3 +831,4 @@
 2025-01-14T13:05:00: feat: add dbt model for Silver layer
 2025-01-14T11:27:00: refactor: extract config to env vars
 2025-01-14T12:03:00: feat: add Kafka consumer group offset tracking
+2025-01-14T21:42:00: docs: add data dictionary
