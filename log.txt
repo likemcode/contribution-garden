@@ -833,3 +833,4 @@
 2025-01-14T12:03:00: feat: add Kafka consumer group offset tracking
 2025-01-14T21:42:00: docs: add data dictionary
 2025-01-14T19:10:00: chore: add gitignore entries
+2025-01-14T13:11:00: feat: add Power BI dataset refresh trigger
