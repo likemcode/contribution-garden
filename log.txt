@@ -834,3 +834,4 @@
 2025-01-14T21:42:00: docs: add data dictionary
 2025-01-14T19:10:00: chore: add gitignore entries
 2025-01-14T13:11:00: feat: add Power BI dataset refresh trigger
+2025-01-16T13:41:00: feat: add dbt model for Silver layer
