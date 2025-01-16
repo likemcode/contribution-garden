@@ -836,3 +836,4 @@
 2025-01-14T13:11:00: feat: add Power BI dataset refresh trigger
 2025-01-16T13:41:00: feat: add dbt model for Silver layer
 2025-01-16T22:17:00: feat: add dbt model for Silver layer
+2025-01-16T10:30:00: refactor: use dataclasses instead of dicts
