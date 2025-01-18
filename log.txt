@@ -846,3 +846,4 @@
 2025-01-17T08:13:00: chore: add gitignore entries
 2025-01-18T15:18:00: chore: add gitignore entries
 2025-01-18T13:01:00: feat: add CDC event handler
+2025-01-18T08:45:00: feat: add Kafka consumer group offset tracking
