@@ -850,3 +850,4 @@
 2025-01-20T09:40:00: feat: add Power BI dataset refresh trigger
 2025-01-21T21:51:00: feat: add Snowflake connection utils
 2025-01-22T15:22:00: fix: memory leak in long-running Lambda
+2025-01-22T20:09:00: docs: add deployment notes
