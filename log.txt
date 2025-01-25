@@ -852,3 +852,4 @@
 2025-01-22T15:22:00: fix: memory leak in long-running Lambda
 2025-01-22T20:09:00: docs: add deployment notes
 2025-01-22T22:35:00: feat: implement guardrails for AI responses
+2025-01-25T10:01:00: feat: add dbt model for Silver layer
