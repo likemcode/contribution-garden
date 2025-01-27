@@ -855,3 +855,4 @@
 2025-01-25T10:01:00: feat: add dbt model for Silver layer
 2025-01-25T12:10:00: feat: implement DLQ replay mechanism
 2025-01-25T16:09:00: feat: implement guardrails for AI responses
+2025-01-27T13:21:00: feat: add Power BI dataset refresh trigger
