@@ -860,3 +860,4 @@
 2025-01-28T16:32:00: feat: add Kafka consumer group offset tracking
 2025-01-29T21:58:00: feat: implement guardrails for AI responses
 2025-01-29T08:33:00: fix: resolve race condition in event consumer
+2025-01-29T18:14:00: docs: add architecture decision record
