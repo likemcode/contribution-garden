@@ -864,3 +864,4 @@
 2025-01-30T13:44:00: chore: add pre-commit hooks
 2025-01-30T19:26:00: refactor: clean up Lambda function
 2025-01-31T13:48:00: fix: resolve race condition in event consumer
+2025-01-31T14:17:00: docs: add architecture decision record
