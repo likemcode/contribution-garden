@@ -867,3 +867,4 @@
 2025-01-31T14:17:00: docs: add architecture decision record
 2025-01-31T16:37:00: feat: add schema validation
 2025-01-31T15:38:00: feat: add Snowflake connection utils
+2025-02-03T08:03:00: docs: update README
