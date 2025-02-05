@@ -877,3 +877,4 @@
 2025-02-04T12:28:00: feat: add Kafka consumer group offset tracking
 2025-02-04T12:04:00: docs: add data dictionary
 2025-02-04T22:22:00: docs: update README
+2025-02-05T21:22:00: fix: encoding issue in CSV parser
