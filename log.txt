@@ -891,3 +891,4 @@
 2025-02-10T17:45:00: feat: add dbt model for Silver layer
 2025-02-10T10:11:00: feat: add dbt model for Silver layer
 2025-02-10T18:43:00: refactor: improve data pipeline logic
+2025-02-11T20:07:00: fix: encoding issue in CSV parser
