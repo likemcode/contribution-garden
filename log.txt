@@ -894,3 +894,4 @@
 2025-02-11T20:07:00: fix: encoding issue in CSV parser
 2025-02-11T18:45:00: docs: update architecture notes
 2025-02-11T21:53:00: fix: memory leak in long-running Lambda
+2025-02-12T14:20:00: docs: document API endpoints
