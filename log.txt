@@ -896,3 +896,4 @@
 2025-02-11T21:53:00: fix: memory leak in long-running Lambda
 2025-02-12T14:20:00: docs: document API endpoints
 2025-02-12T14:06:00: refactor: clean up Lambda function
+2025-02-12T12:07:00: feat: add CDC event handler
