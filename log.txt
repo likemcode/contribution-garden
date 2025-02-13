@@ -902,3 +902,4 @@
 2025-02-13T15:12:00: feat: add retry logic with exponential backoff
 2025-02-13T08:39:00: refactor: use dataclasses instead of dicts
 2025-02-13T15:09:00: feat: add schema validation
+2025-02-13T20:38:00: feat: add dbt model for Silver layer
