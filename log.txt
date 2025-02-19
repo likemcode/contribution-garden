@@ -920,3 +920,4 @@
 2025-02-19T10:39:00: refactor: use dataclasses instead of dicts
 2025-02-19T16:40:00: docs: add architecture decision record
 2025-02-19T09:06:00: feat: add schema validation
+2025-02-19T10:20:00: feat: implement DLQ replay mechanism
