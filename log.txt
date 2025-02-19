@@ -919,3 +919,4 @@
 2025-02-19T14:40:00: fix: encoding issue in CSV parser
 2025-02-19T10:39:00: refactor: use dataclasses instead of dicts
 2025-02-19T16:40:00: docs: add architecture decision record
+2025-02-19T09:06:00: feat: add schema validation
