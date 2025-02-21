@@ -923,3 +923,4 @@
 2025-02-19T10:20:00: feat: implement DLQ replay mechanism
 2025-02-19T15:48:00: fix: resolve race condition in event consumer
 2025-02-21T10:00:00: fix: resolve race condition in event consumer
+2025-02-21T12:58:00: fix: encoding issue in CSV parser
