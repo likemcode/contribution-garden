@@ -938,3 +938,4 @@
 2025-02-27T17:22:00: feat: add Snowflake connection utils
 2025-02-28T19:10:00: refactor: split monolithic processor
 2025-02-28T16:16:00: feat: add dbt model for Silver layer
+2025-02-28T18:07:00: fix: resolve race condition in event consumer
