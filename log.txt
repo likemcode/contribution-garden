@@ -941,3 +941,4 @@
 2025-02-28T18:07:00: fix: resolve race condition in event consumer
 2025-02-28T16:50:00: refactor: extract config to env vars
 2025-03-04T22:25:00: feat: implement guardrails for AI responses
+2025-03-04T08:17:00: fix: encoding issue in CSV parser
