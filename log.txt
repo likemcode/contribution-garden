@@ -947,3 +947,4 @@
 2025-03-06T15:04:00: feat: add Snowflake connection utils
 2025-03-06T19:39:00: feat: add retry logic with exponential backoff
 2025-03-06T12:36:00: fix: handle null values in stream processor
+2025-03-06T10:54:00: docs: add data dictionary
