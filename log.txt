@@ -945,3 +945,4 @@
 2025-03-04T19:46:00: feat: add dbt model for Silver layer
 2025-03-04T18:25:00: docs: document API endpoints
 2025-03-06T15:04:00: feat: add Snowflake connection utils
+2025-03-06T19:39:00: feat: add retry logic with exponential backoff
