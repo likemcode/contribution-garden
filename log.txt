@@ -959,3 +959,4 @@
 2025-03-12T22:58:00: feat: implement guardrails for AI responses
 2025-03-12T14:42:00: docs: add architecture decision record
 2025-03-12T13:17:00: feat: add OpenSearch index mapping
+2025-03-14T14:13:00: feat: add Kafka consumer group offset tracking
