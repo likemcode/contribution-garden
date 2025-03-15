@@ -961,3 +961,4 @@
 2025-03-12T13:17:00: feat: add OpenSearch index mapping
 2025-03-14T14:13:00: feat: add Kafka consumer group offset tracking
 2025-03-14T18:53:00: docs: update README
+2025-03-15T13:34:00: refactor: improve data pipeline logic
