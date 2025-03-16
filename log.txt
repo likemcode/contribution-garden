@@ -966,3 +966,4 @@
 2025-03-16T08:01:00: docs: update architecture notes
 2025-03-16T15:17:00: chore: bump boto3 version
 2025-03-16T18:07:00: feat: add Power BI dataset refresh trigger
+2025-03-16T11:42:00: feat: add schema validation
