@@ -972,3 +972,4 @@
 2025-03-16T15:00:00: feat: implement DLQ replay mechanism
 2025-03-17T10:55:00: docs: document API endpoints
 2025-03-17T12:39:00: feat: add dbt model for Silver layer
+2025-03-17T11:38:00: feat: add CDC event handler
