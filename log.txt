@@ -973,3 +973,4 @@
 2025-03-17T10:55:00: docs: document API endpoints
 2025-03-17T12:39:00: feat: add dbt model for Silver layer
 2025-03-17T11:38:00: feat: add CDC event handler
+2025-03-18T22:34:00: feat: add Snowflake connection utils
