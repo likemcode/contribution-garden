@@ -977,3 +977,4 @@
 2025-03-18T13:35:00: feat: add Power BI dataset refresh trigger
 2025-03-18T16:13:00: fix: memory leak in long-running Lambda
 2025-03-18T12:38:00: feat: implement guardrails for AI responses
+2025-03-18T21:54:00: docs: add deployment notes
