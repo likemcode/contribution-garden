@@ -980,3 +980,4 @@
 2025-03-18T21:54:00: docs: add deployment notes
 2025-03-18T16:13:00: docs: add architecture decision record
 2025-03-20T14:20:00: docs: add deployment notes
+2025-03-20T16:41:00: feat: add Snowflake connection utils
