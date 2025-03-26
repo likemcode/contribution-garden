@@ -994,3 +994,4 @@
 2025-03-24T11:09:00: docs: add deployment notes
 2025-03-24T16:45:00: refactor: split monolithic processor
 2025-03-25T11:08:00: docs: update architecture notes
+2025-03-26T10:02:00: chore: add pre-commit hooks
