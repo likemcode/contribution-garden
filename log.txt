@@ -1011,3 +1011,4 @@
 2025-04-02T08:03:00: docs: update architecture notes
 2025-04-02T14:09:00: feat: add Kafka consumer group offset tracking
 2025-04-02T11:50:00: docs: update architecture notes
+2025-04-02T11:46:00: docs: add data dictionary
