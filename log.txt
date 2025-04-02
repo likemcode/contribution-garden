@@ -1009,3 +1009,4 @@
 2025-03-31T21:18:00: refactor: clean up Lambda function
 2025-04-02T10:44:00: chore: add pre-commit hooks
 2025-04-02T08:03:00: docs: update architecture notes
+2025-04-02T14:09:00: feat: add Kafka consumer group offset tracking
