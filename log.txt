@@ -1007,3 +1007,4 @@
 2025-03-31T13:01:00: refactor: extract config to env vars
 2025-03-31T13:01:00: feat: implement guardrails for AI responses
 2025-03-31T21:18:00: refactor: clean up Lambda function
+2025-04-02T10:44:00: chore: add pre-commit hooks
