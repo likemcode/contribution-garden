@@ -1033,3 +1033,4 @@
 2025-04-09T08:05:00: fix: timeout handling in API calls
 2025-04-09T22:16:00: refactor: extract config to env vars
 2025-04-11T22:02:00: refactor: split monolithic processor
+2025-04-11T17:56:00: fix: memory leak in long-running Lambda
