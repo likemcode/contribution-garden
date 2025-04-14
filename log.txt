@@ -1035,3 +1035,4 @@
 2025-04-11T22:02:00: refactor: split monolithic processor
 2025-04-11T17:56:00: fix: memory leak in long-running Lambda
 2025-04-11T09:17:00: docs: document API endpoints
+2025-04-14T11:15:00: feat: add Snowflake connection utils
