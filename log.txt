@@ -1039,3 +1039,4 @@
 2025-04-14T17:21:00: feat: add Kafka consumer group offset tracking
 2025-04-14T16:14:00: fix: handle null values in stream processor
 2025-04-14T14:56:00: fix: handle null values in stream processor
+2025-04-14T08:16:00: docs: add deployment notes
