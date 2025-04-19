@@ -1056,3 +1056,4 @@
 2025-04-18T18:23:00: feat: add CDC event handler
 2025-04-18T20:05:00: fix: resolve race condition in event consumer
 2025-04-19T12:54:00: docs: add deployment notes
+2025-04-19T13:41:00: fix: timeout handling in API calls
