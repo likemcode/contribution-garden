@@ -1069,3 +1069,4 @@
 2025-04-23T10:16:00: feat: add Power BI dataset refresh trigger
 2025-04-23T20:23:00: fix: memory leak in long-running Lambda
 2025-04-23T08:17:00: feat: add schema validation
+2025-04-23T09:45:00: chore: add gitignore entries
