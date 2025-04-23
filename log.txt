@@ -1067,3 +1067,4 @@
 2025-04-22T11:02:00: feat: implement DLQ replay mechanism
 2025-04-22T19:52:00: refactor: extract config to env vars
 2025-04-23T10:16:00: feat: add Power BI dataset refresh trigger
+2025-04-23T20:23:00: fix: memory leak in long-running Lambda
