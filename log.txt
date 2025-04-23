@@ -1071,3 +1071,4 @@
 2025-04-23T08:17:00: feat: add schema validation
 2025-04-23T09:45:00: chore: add gitignore entries
 2025-04-23T13:30:00: refactor: split monolithic processor
+2025-04-23T17:18:00: fix: encoding issue in CSV parser
