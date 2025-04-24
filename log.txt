@@ -1076,3 +1076,4 @@
 2025-04-24T21:25:00: docs: document API endpoints
 2025-04-24T18:38:00: fix: resolve race condition in event consumer
 2025-04-24T11:29:00: feat: add CDC event handler
+2025-04-24T20:14:00: feat: add OpenSearch index mapping
