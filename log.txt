@@ -1074,3 +1074,4 @@
 2025-04-23T17:18:00: fix: encoding issue in CSV parser
 2025-04-23T12:50:00: docs: update README
 2025-04-24T21:25:00: docs: document API endpoints
+2025-04-24T18:38:00: fix: resolve race condition in event consumer
