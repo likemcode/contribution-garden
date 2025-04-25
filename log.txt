@@ -1078,3 +1078,4 @@
 2025-04-24T11:29:00: feat: add CDC event handler
 2025-04-24T20:14:00: feat: add OpenSearch index mapping
 2025-04-25T16:19:00: chore: add pre-commit hooks
+2025-04-25T18:11:00: feat: add Power BI dataset refresh trigger
