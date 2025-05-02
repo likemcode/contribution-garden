@@ -1091,3 +1091,4 @@
 2025-04-30T19:35:00: docs: document API endpoints
 2025-04-30T17:27:00: feat: add OpenSearch index mapping
 2025-04-30T11:04:00: fix: resolve race condition in event consumer
+2025-05-02T15:51:00: chore: add gitignore entries
