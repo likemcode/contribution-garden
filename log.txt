@@ -1098,3 +1098,4 @@
 2025-05-02T18:15:00: feat: add schema validation
 2025-05-02T20:46:00: fix: resolve race condition in event consumer
 2025-05-05T19:14:00: docs: update architecture notes
+2025-05-05T13:20:00: chore: add pre-commit hooks
