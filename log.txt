@@ -1111,3 +1111,4 @@
 2025-05-07T08:51:00: chore: update dependencies
 2025-05-07T12:59:00: docs: add architecture decision record
 2025-05-07T21:29:00: chore: add gitignore entries
+2025-05-07T08:14:00: feat: add Power BI dataset refresh trigger
