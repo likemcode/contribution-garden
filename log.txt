@@ -1112,3 +1112,4 @@
 2025-05-07T12:59:00: docs: add architecture decision record
 2025-05-07T21:29:00: chore: add gitignore entries
 2025-05-07T08:14:00: feat: add Power BI dataset refresh trigger
+2025-05-08T17:10:00: feat: add dbt model for Silver layer
