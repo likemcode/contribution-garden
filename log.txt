@@ -1113,3 +1113,4 @@
 2025-05-07T21:29:00: chore: add gitignore entries
 2025-05-07T08:14:00: feat: add Power BI dataset refresh trigger
 2025-05-08T17:10:00: feat: add dbt model for Silver layer
+2025-05-08T10:30:00: chore: add pre-commit hooks
