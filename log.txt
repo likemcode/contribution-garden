@@ -1118,3 +1118,4 @@
 2025-05-10T12:43:00: docs: update README
 2025-05-10T22:24:00: chore: add pre-commit hooks
 2025-05-13T13:51:00: docs: document API endpoints
+2025-05-13T16:39:00: fix: encoding issue in CSV parser
