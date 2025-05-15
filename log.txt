@@ -1120,3 +1120,4 @@
 2025-05-13T13:51:00: docs: document API endpoints
 2025-05-13T16:39:00: fix: encoding issue in CSV parser
 2025-05-14T11:00:00: docs: add architecture decision record
+2025-05-15T22:25:00: docs: update architecture notes
