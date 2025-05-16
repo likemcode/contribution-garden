@@ -1123,3 +1123,4 @@
 2025-05-15T22:25:00: docs: update architecture notes
 2025-05-15T15:09:00: refactor: extract config to env vars
 2025-05-16T16:39:00: docs: document API endpoints
+2025-05-16T11:22:00: fix: resolve race condition in event consumer
