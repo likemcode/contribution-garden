@@ -1132,3 +1132,4 @@
 2025-05-19T10:46:00: fix: handle null values in stream processor
 2025-05-19T16:37:00: fix: timeout handling in API calls
 2025-05-19T18:43:00: refactor: use dataclasses instead of dicts
+2025-05-20T19:15:00: feat: add Kafka consumer group offset tracking
