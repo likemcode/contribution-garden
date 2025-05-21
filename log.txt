@@ -1135,3 +1135,4 @@
 2025-05-20T19:15:00: feat: add Kafka consumer group offset tracking
 2025-05-20T19:37:00: feat: add dbt model for Silver layer
 2025-05-21T13:40:00: chore: add pre-commit hooks
+2025-05-21T14:53:00: feat: add CDC event handler
