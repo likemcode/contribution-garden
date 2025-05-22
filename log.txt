@@ -1140,3 +1140,4 @@
 2025-05-21T22:15:00: feat: add CDC event handler
 2025-05-21T19:52:00: refactor: split monolithic processor
 2025-05-21T09:38:00: docs: document API endpoints
+2025-05-22T12:36:00: fix: timeout handling in API calls
