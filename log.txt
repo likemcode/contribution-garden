@@ -1152,3 +1152,4 @@
 2025-05-24T17:27:00: refactor: use dataclasses instead of dicts
 2025-05-26T08:09:00: fix: timeout handling in API calls
 2025-05-30T15:30:00: feat: add Power BI dataset refresh trigger
+2025-05-30T12:20:00: docs: add deployment notes
