@@ -1157,3 +1157,4 @@
 2025-05-31T17:44:00: feat: add CDC event handler
 2025-05-31T11:48:00: chore: add pre-commit hooks
 2025-05-31T12:19:00: refactor: extract config to env vars
+2025-05-31T17:51:00: fix: memory leak in long-running Lambda
