@@ -1155,3 +1155,4 @@
 2025-05-30T12:20:00: docs: add deployment notes
 2025-05-30T20:19:00: feat: implement DLQ replay mechanism
 2025-05-31T17:44:00: feat: add CDC event handler
+2025-05-31T11:48:00: chore: add pre-commit hooks
