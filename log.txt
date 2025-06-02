@@ -1159,3 +1159,4 @@
 2025-05-31T12:19:00: refactor: extract config to env vars
 2025-05-31T17:51:00: fix: memory leak in long-running Lambda
 2025-05-31T11:24:00: docs: document API endpoints
+2025-06-02T22:00:00: fix: memory leak in long-running Lambda
