@@ -1176,3 +1176,4 @@
 2025-06-05T19:03:00: docs: add deployment notes
 2025-06-06T10:57:00: chore: add gitignore entries
 2025-06-06T16:44:00: docs: update architecture notes
+2025-06-06T08:51:00: fix: memory leak in long-running Lambda
