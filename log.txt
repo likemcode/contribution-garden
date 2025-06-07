@@ -1179,3 +1179,4 @@
 2025-06-06T08:51:00: fix: memory leak in long-running Lambda
 2025-06-07T13:09:00: fix: memory leak in long-running Lambda
 2025-06-07T17:49:00: chore: add pre-commit hooks
+2025-06-07T10:46:00: docs: update README
