@@ -1187,3 +1187,4 @@
 2025-06-10T12:49:00: feat: add OpenSearch index mapping
 2025-06-10T12:40:00: refactor: use dataclasses instead of dicts
 2025-06-11T21:21:00: docs: add deployment notes
+2025-06-12T16:48:00: feat: add CDC event handler
