@@ -1197,3 +1197,4 @@
 2025-06-16T10:58:00: refactor: clean up Lambda function
 2025-06-16T18:01:00: docs: add architecture decision record
 2025-06-16T10:04:00: feat: add schema validation
+2025-06-16T10:00:00: feat: add retry logic with exponential backoff
