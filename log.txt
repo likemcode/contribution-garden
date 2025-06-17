@@ -1198,3 +1198,4 @@
 2025-06-16T18:01:00: docs: add architecture decision record
 2025-06-16T10:04:00: feat: add schema validation
 2025-06-16T10:00:00: feat: add retry logic with exponential backoff
+2025-06-17T14:16:00: chore: add gitignore entries
