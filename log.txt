@@ -1206,3 +1206,4 @@
 2025-06-18T17:39:00: fix: timeout handling in API calls
 2025-06-19T12:45:00: chore: bump boto3 version
 2025-06-19T14:11:00: docs: document API endpoints
+2025-06-19T08:54:00: fix: resolve race condition in event consumer
