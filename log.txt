@@ -1211,3 +1211,4 @@
 2025-06-19T10:11:00: feat: add OpenSearch index mapping
 2025-06-19T08:00:00: fix: handle null values in stream processor
 2025-06-20T14:35:00: feat: implement guardrails for AI responses
+2025-06-20T17:20:00: feat: add retry logic with exponential backoff
