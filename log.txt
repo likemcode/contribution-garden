@@ -1214,3 +1214,4 @@
 2025-06-20T17:20:00: feat: add retry logic with exponential backoff
 2025-06-20T19:01:00: feat: add Snowflake connection utils
 2025-06-20T12:50:00: chore: bump boto3 version
+2025-06-21T14:01:00: fix: memory leak in long-running Lambda
