@@ -1220,3 +1220,4 @@
 2025-06-21T11:18:00: docs: add architecture decision record
 2025-06-23T17:13:00: fix: memory leak in long-running Lambda
 2025-06-23T22:46:00: feat: implement DLQ replay mechanism
+2025-06-23T12:22:00: docs: document API endpoints
