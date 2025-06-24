@@ -1222,3 +1222,4 @@
 2025-06-23T22:46:00: feat: implement DLQ replay mechanism
 2025-06-23T12:22:00: docs: document API endpoints
 2025-06-24T19:56:00: chore: add gitignore entries
+2025-06-24T15:00:00: fix: resolve race condition in event consumer
