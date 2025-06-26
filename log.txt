@@ -1234,3 +1234,4 @@
 2025-06-26T22:04:00: refactor: extract config to env vars
 2025-06-26T22:54:00: chore: add gitignore entries
 2025-06-26T10:45:00: feat: add OpenSearch index mapping
+2025-06-26T22:28:00: fix: handle null values in stream processor
