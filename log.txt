@@ -1237,3 +1237,4 @@
 2025-06-26T22:28:00: fix: handle null values in stream processor
 2025-06-26T13:21:00: refactor: extract config to env vars
 2025-06-26T14:03:00: docs: update architecture notes
+2025-06-27T11:50:00: feat: add Snowflake connection utils
