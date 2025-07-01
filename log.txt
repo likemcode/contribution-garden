@@ -1254,3 +1254,4 @@
 2025-07-01T19:08:00: feat: implement guardrails for AI responses
 2025-07-01T15:51:00: feat: add OpenSearch index mapping
 2025-07-01T11:29:00: feat: add retry logic with exponential backoff
+2025-07-01T13:12:00: docs: update architecture notes
