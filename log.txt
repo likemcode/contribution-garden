@@ -1261,3 +1261,4 @@
 2025-07-03T14:48:00: feat: add dbt model for Silver layer
 2025-07-04T14:38:00: refactor: improve data pipeline logic
 2025-07-04T17:59:00: refactor: clean up Lambda function
+2025-07-05T11:23:00: docs: document API endpoints
