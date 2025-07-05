@@ -1263,3 +1263,4 @@
 2025-07-04T17:59:00: refactor: clean up Lambda function
 2025-07-05T11:23:00: docs: document API endpoints
 2025-07-05T22:18:00: docs: update README
+2025-07-05T19:57:00: fix: handle null values in stream processor
