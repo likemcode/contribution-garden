@@ -1266,3 +1266,4 @@
 2025-07-05T19:57:00: fix: handle null values in stream processor
 2025-07-05T21:06:00: feat: add CDC event handler
 2025-07-05T20:40:00: chore: add gitignore entries
+2025-07-05T18:38:00: feat: add retry logic with exponential backoff
