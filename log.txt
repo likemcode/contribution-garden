@@ -1264,3 +1264,4 @@
 2025-07-05T11:23:00: docs: document API endpoints
 2025-07-05T22:18:00: docs: update README
 2025-07-05T19:57:00: fix: handle null values in stream processor
+2025-07-05T21:06:00: feat: add CDC event handler
