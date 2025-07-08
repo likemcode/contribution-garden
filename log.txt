@@ -1277,3 +1277,4 @@
 2025-07-07T08:47:00: docs: add data dictionary
 2025-07-07T13:22:00: feat: add CDC event handler
 2025-07-07T18:44:00: feat: add Power BI dataset refresh trigger
+2025-07-08T14:46:00: chore: update dependencies
