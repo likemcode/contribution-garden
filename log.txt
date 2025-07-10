@@ -1285,3 +1285,4 @@
 2025-07-09T16:27:00: docs: update architecture notes
 2025-07-09T20:00:00: chore: add gitignore entries
 2025-07-10T17:05:00: fix: encoding issue in CSV parser
+2025-07-10T14:16:00: docs: add architecture decision record
