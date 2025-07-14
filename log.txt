@@ -1294,3 +1294,4 @@
 2025-07-12T16:42:00: feat: add dbt model for Silver layer
 2025-07-12T17:00:00: feat: add Snowflake connection utils
 2025-07-14T16:16:00: feat: add Snowflake connection utils
+2025-07-14T13:22:00: refactor: clean up Lambda function
