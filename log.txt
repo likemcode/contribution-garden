@@ -1296,3 +1296,4 @@
 2025-07-14T16:16:00: feat: add Snowflake connection utils
 2025-07-14T13:22:00: refactor: clean up Lambda function
 2025-07-14T19:01:00: chore: bump boto3 version
+2025-07-14T19:48:00: feat: add OpenSearch index mapping
