@@ -1298,3 +1298,4 @@
 2025-07-14T19:01:00: chore: bump boto3 version
 2025-07-14T19:48:00: feat: add OpenSearch index mapping
 2025-07-14T08:26:00: docs: update architecture notes
+2025-07-15T21:42:00: docs: add deployment notes
