@@ -1300,3 +1300,4 @@
 2025-07-14T08:26:00: docs: update architecture notes
 2025-07-15T21:42:00: docs: add deployment notes
 2025-07-15T12:00:00: chore: add pre-commit hooks
+2025-07-15T17:24:00: fix: timeout handling in API calls
