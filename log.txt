@@ -1304,3 +1304,4 @@
 2025-07-17T20:04:00: feat: add Snowflake connection utils
 2025-07-17T14:53:00: feat: add Snowflake connection utils
 2025-07-17T12:55:00: refactor: split monolithic processor
+2025-07-18T13:00:00: docs: document API endpoints
