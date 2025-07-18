@@ -1307,3 +1307,4 @@
 2025-07-18T13:00:00: docs: document API endpoints
 2025-07-18T14:49:00: chore: add pre-commit hooks
 2025-07-18T15:14:00: feat: add CDC event handler
+2025-07-18T14:48:00: feat: add retry logic with exponential backoff
