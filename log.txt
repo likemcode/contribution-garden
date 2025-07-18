@@ -1308,3 +1308,4 @@
 2025-07-18T14:49:00: chore: add pre-commit hooks
 2025-07-18T15:14:00: feat: add CDC event handler
 2025-07-18T14:48:00: feat: add retry logic with exponential backoff
+2025-07-18T13:46:00: fix: handle null values in stream processor
