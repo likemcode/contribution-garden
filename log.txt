@@ -1311,3 +1311,4 @@
 2025-07-18T13:46:00: fix: handle null values in stream processor
 2025-07-21T10:06:00: feat: implement DLQ replay mechanism
 2025-07-21T12:21:00: docs: update architecture notes
+2025-07-21T09:38:00: docs: document API endpoints
