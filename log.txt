@@ -1312,3 +1312,4 @@
 2025-07-21T10:06:00: feat: implement DLQ replay mechanism
 2025-07-21T12:21:00: docs: update architecture notes
 2025-07-21T09:38:00: docs: document API endpoints
+2025-07-22T14:37:00: docs: add data dictionary
