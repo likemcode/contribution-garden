@@ -1314,3 +1314,4 @@
 2025-07-21T09:38:00: docs: document API endpoints
 2025-07-22T14:37:00: docs: add data dictionary
 2025-07-23T20:57:00: fix: encoding issue in CSV parser
+2025-07-23T16:34:00: refactor: use dataclasses instead of dicts
