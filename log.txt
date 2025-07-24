@@ -1319,3 +1319,4 @@
 2025-07-23T08:59:00: feat: add dbt model for Silver layer
 2025-07-23T11:22:00: feat: add dbt model for Silver layer
 2025-07-24T14:35:00: refactor: use dataclasses instead of dicts
+2025-07-24T18:28:00: refactor: improve data pipeline logic
