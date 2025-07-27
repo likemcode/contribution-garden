@@ -1330,3 +1330,4 @@
 2025-07-27T14:06:00: feat: add retry logic with exponential backoff
 2025-07-27T17:46:00: feat: implement DLQ replay mechanism
 2025-07-27T22:37:00: docs: add architecture decision record
+2025-07-27T20:12:00: feat: add CDC event handler
