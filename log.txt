@@ -1328,3 +1328,4 @@
 2025-07-25T10:35:00: feat: add OpenSearch index mapping
 2025-07-25T13:15:00: docs: update README
 2025-07-27T14:06:00: feat: add retry logic with exponential backoff
+2025-07-27T17:46:00: feat: implement DLQ replay mechanism
