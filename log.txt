@@ -1332,3 +1332,4 @@
 2025-07-27T22:37:00: docs: add architecture decision record
 2025-07-27T20:12:00: feat: add CDC event handler
 2025-07-27T17:30:00: feat: add CDC event handler
+2025-07-27T18:08:00: fix: handle null values in stream processor
