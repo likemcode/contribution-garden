@@ -1352,3 +1352,4 @@
 2025-08-06T10:11:00: chore: add gitignore entries
 2025-08-07T12:46:00: feat: add Power BI dataset refresh trigger
 2025-08-07T08:02:00: feat: implement guardrails for AI responses
+2025-08-07T15:25:00: docs: add deployment notes
