@@ -1362,3 +1362,4 @@
 2025-08-11T10:00:00: fix: timeout handling in API calls
 2025-08-11T12:57:00: fix: resolve race condition in event consumer
 2025-08-11T16:51:00: feat: add OpenSearch index mapping
+2025-08-11T21:39:00: docs: document API endpoints
