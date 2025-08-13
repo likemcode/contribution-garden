@@ -1364,3 +1364,4 @@
 2025-08-11T16:51:00: feat: add OpenSearch index mapping
 2025-08-11T21:39:00: docs: document API endpoints
 2025-08-13T10:59:00: refactor: use dataclasses instead of dicts
+2025-08-13T21:08:00: chore: update dependencies
