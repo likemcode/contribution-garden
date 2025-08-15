@@ -1365,3 +1365,4 @@
 2025-08-11T21:39:00: docs: document API endpoints
 2025-08-13T10:59:00: refactor: use dataclasses instead of dicts
 2025-08-13T21:08:00: chore: update dependencies
+2025-08-15T14:21:00: fix: timeout handling in API calls
