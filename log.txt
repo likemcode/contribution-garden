@@ -1378,3 +1378,4 @@
 2025-08-18T12:34:00: feat: implement DLQ replay mechanism
 2025-08-18T18:29:00: docs: add data dictionary
 2025-08-19T15:14:00: docs: document API endpoints
+2025-08-19T18:35:00: chore: add gitignore entries
