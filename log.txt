@@ -1380,3 +1380,4 @@
 2025-08-19T15:14:00: docs: document API endpoints
 2025-08-19T18:35:00: chore: add gitignore entries
 2025-08-19T10:13:00: refactor: use dataclasses instead of dicts
+2025-08-25T12:07:00: docs: document API endpoints
