@@ -1383,3 +1383,4 @@
 2025-08-25T12:07:00: docs: document API endpoints
 2025-08-25T14:43:00: feat: add schema validation
 2025-08-25T11:25:00: refactor: split monolithic processor
+2025-08-25T15:39:00: feat: add schema validation
