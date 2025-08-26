@@ -1385,3 +1385,4 @@
 2025-08-25T11:25:00: refactor: split monolithic processor
 2025-08-25T15:39:00: feat: add schema validation
 2025-08-25T20:09:00: feat: add Snowflake connection utils
+2025-08-26T22:01:00: feat: add Power BI dataset refresh trigger
