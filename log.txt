@@ -1388,3 +1388,4 @@
 2025-08-26T22:01:00: feat: add Power BI dataset refresh trigger
 2025-08-26T17:26:00: refactor: improve data pipeline logic
 2025-08-26T10:02:00: fix: resolve race condition in event consumer
+2025-08-26T10:54:00: fix: encoding issue in CSV parser
