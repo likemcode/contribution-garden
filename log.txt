@@ -1394,3 +1394,4 @@
 2025-08-28T11:20:00: fix: timeout handling in API calls
 2025-08-29T13:57:00: docs: add data dictionary
 2025-08-29T22:29:00: docs: add deployment notes
+2025-08-29T18:09:00: docs: update architecture notes
