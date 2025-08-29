@@ -1392,3 +1392,4 @@
 2025-08-28T16:58:00: docs: update architecture notes
 2025-08-28T21:12:00: feat: add Snowflake connection utils
 2025-08-28T11:20:00: fix: timeout handling in API calls
+2025-08-29T13:57:00: docs: add data dictionary
