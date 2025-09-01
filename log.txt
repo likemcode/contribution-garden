@@ -1406,3 +1406,4 @@
 2025-09-01T18:48:00: docs: add architecture decision record
 2025-09-01T16:04:00: feat: add Snowflake connection utils
 2025-09-01T13:06:00: fix: encoding issue in CSV parser
+2025-09-01T15:19:00: feat: add retry logic with exponential backoff
