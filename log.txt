@@ -1405,3 +1405,4 @@
 2025-09-01T21:17:00: fix: timeout handling in API calls
 2025-09-01T18:48:00: docs: add architecture decision record
 2025-09-01T16:04:00: feat: add Snowflake connection utils
+2025-09-01T13:06:00: fix: encoding issue in CSV parser
