@@ -1412,3 +1412,4 @@
 2025-09-05T12:03:00: refactor: use dataclasses instead of dicts
 2025-09-06T18:42:00: fix: handle null values in stream processor
 2025-09-06T19:40:00: feat: add CDC event handler
+2025-09-06T20:24:00: feat: add schema validation
