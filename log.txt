@@ -1416,3 +1416,4 @@
 2025-09-06T20:20:00: docs: add architecture decision record
 2025-09-06T15:01:00: feat: add Power BI dataset refresh trigger
 2025-09-06T08:08:00: feat: add Kafka consumer group offset tracking
+2025-09-08T10:42:00: refactor: split monolithic processor
