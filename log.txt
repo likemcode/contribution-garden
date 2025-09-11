@@ -1424,3 +1424,4 @@
 2025-09-09T09:54:00: chore: update dependencies
 2025-09-11T11:54:00: chore: add pre-commit hooks
 2025-09-11T15:21:00: feat: add dbt model for Silver layer
+2025-09-11T22:42:00: feat: add CDC event handler
