@@ -1428,3 +1428,4 @@
 2025-09-15T19:15:00: refactor: split monolithic processor
 2025-09-15T13:54:00: fix: handle null values in stream processor
 2025-09-15T10:16:00: docs: add deployment notes
+2025-09-18T19:52:00: feat: add OpenSearch index mapping
