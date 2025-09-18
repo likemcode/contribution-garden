@@ -1430,3 +1430,4 @@
 2025-09-15T10:16:00: docs: add deployment notes
 2025-09-18T19:52:00: feat: add OpenSearch index mapping
 2025-09-18T18:34:00: docs: add data dictionary
+2025-09-18T13:59:00: fix: memory leak in long-running Lambda
