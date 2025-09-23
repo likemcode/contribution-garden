@@ -1437,3 +1437,4 @@
 2025-09-22T15:47:00: docs: add architecture decision record
 2025-09-23T10:52:00: fix: resolve race condition in event consumer
 2025-09-23T12:33:00: refactor: use dataclasses instead of dicts
+2025-09-23T08:32:00: feat: add Kafka consumer group offset tracking
