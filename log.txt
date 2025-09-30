@@ -1452,3 +1452,4 @@
 2025-09-26T15:54:00: docs: document API endpoints
 2025-09-30T14:45:00: refactor: improve data pipeline logic
 2025-09-30T19:43:00: fix: handle null values in stream processor
+2025-09-30T19:09:00: docs: add architecture decision record
