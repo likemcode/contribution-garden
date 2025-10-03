@@ -1458,3 +1458,4 @@
 2025-10-03T16:57:00: feat: add CDC event handler
 2025-10-03T13:49:00: docs: add data dictionary
 2025-10-03T13:38:00: refactor: extract config to env vars
+2025-10-03T15:55:00: refactor: improve data pipeline logic
