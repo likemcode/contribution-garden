@@ -1464,3 +1464,4 @@
 2025-10-06T16:25:00: docs: add data dictionary
 2025-10-06T17:42:00: docs: add architecture decision record
 2025-10-06T21:10:00: feat: add CDC event handler
+2025-10-06T19:30:00: fix: resolve race condition in event consumer
