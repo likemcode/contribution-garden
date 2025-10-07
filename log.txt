@@ -1467,3 +1467,4 @@
 2025-10-06T19:30:00: fix: resolve race condition in event consumer
 2025-10-06T08:26:00: refactor: use dataclasses instead of dicts
 2025-10-07T14:25:00: feat: add dbt model for Silver layer
+2025-10-07T20:06:00: docs: add data dictionary
