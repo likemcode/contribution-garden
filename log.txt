@@ -1466,3 +1466,4 @@
 2025-10-06T21:10:00: feat: add CDC event handler
 2025-10-06T19:30:00: fix: resolve race condition in event consumer
 2025-10-06T08:26:00: refactor: use dataclasses instead of dicts
+2025-10-07T14:25:00: feat: add dbt model for Silver layer
