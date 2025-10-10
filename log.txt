@@ -1478,3 +1478,4 @@
 2025-10-09T20:12:00: fix: memory leak in long-running Lambda
 2025-10-09T12:03:00: chore: add gitignore entries
 2025-10-10T15:12:00: feat: implement DLQ replay mechanism
+2025-10-10T11:37:00: refactor: split monolithic processor
