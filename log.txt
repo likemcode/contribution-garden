@@ -1488,3 +1488,4 @@
 2025-10-13T19:54:00: feat: add Power BI dataset refresh trigger
 2025-10-13T15:23:00: docs: add architecture decision record
 2025-10-13T19:37:00: fix: handle null values in stream processor
+2025-10-13T21:51:00: docs: update README
