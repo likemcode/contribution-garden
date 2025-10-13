@@ -1484,3 +1484,4 @@
 2025-10-11T08:30:00: refactor: clean up Lambda function
 2025-10-11T14:22:00: docs: add architecture decision record
 2025-10-13T09:20:00: refactor: split monolithic processor
+2025-10-13T13:13:00: feat: add Snowflake connection utils
