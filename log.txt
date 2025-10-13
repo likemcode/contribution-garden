@@ -1486,3 +1486,4 @@
 2025-10-13T09:20:00: refactor: split monolithic processor
 2025-10-13T13:13:00: feat: add Snowflake connection utils
 2025-10-13T19:54:00: feat: add Power BI dataset refresh trigger
+2025-10-13T15:23:00: docs: add architecture decision record
