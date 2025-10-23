@@ -1495,3 +1495,4 @@
 2025-10-20T08:59:00: fix: memory leak in long-running Lambda
 2025-10-22T16:49:00: chore: add pre-commit hooks
 2025-10-23T21:57:00: chore: bump boto3 version
+2025-10-23T19:27:00: docs: add data dictionary
