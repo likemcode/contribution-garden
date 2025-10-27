@@ -1496,3 +1496,4 @@
 2025-10-22T16:49:00: chore: add pre-commit hooks
 2025-10-23T21:57:00: chore: bump boto3 version
 2025-10-23T19:27:00: docs: add data dictionary
+2025-10-27T14:25:00: feat: add Kafka consumer group offset tracking
