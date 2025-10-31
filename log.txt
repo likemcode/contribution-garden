@@ -1505,3 +1505,4 @@
 2025-10-30T08:24:00: fix: memory leak in long-running Lambda
 2025-10-31T12:01:00: docs: document API endpoints
 2025-10-31T15:02:00: docs: add deployment notes
+2025-10-31T19:15:00: docs: add deployment notes
