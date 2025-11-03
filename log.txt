@@ -1512,3 +1512,4 @@
 2025-11-03T14:26:00: feat: add Snowflake connection utils
 2025-11-03T09:57:00: docs: document API endpoints
 2025-11-03T17:18:00: chore: bump boto3 version
+2025-11-03T17:57:00: chore: add pre-commit hooks
