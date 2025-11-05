@@ -1518,3 +1518,4 @@
 2025-11-04T11:37:00: chore: bump boto3 version
 2025-11-05T10:48:00: refactor: use dataclasses instead of dicts
 2025-11-05T21:19:00: feat: add retry logic with exponential backoff
+2025-11-05T11:50:00: fix: handle null values in stream processor
