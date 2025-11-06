@@ -1520,3 +1520,4 @@
 2025-11-05T21:19:00: feat: add retry logic with exponential backoff
 2025-11-05T11:50:00: fix: handle null values in stream processor
 2025-11-05T13:28:00: refactor: clean up Lambda function
+2025-11-06T20:05:00: feat: add Snowflake connection utils
