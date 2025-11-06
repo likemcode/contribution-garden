@@ -1522,3 +1522,4 @@
 2025-11-05T13:28:00: refactor: clean up Lambda function
 2025-11-06T20:05:00: feat: add Snowflake connection utils
 2025-11-06T18:40:00: feat: add dbt model for Silver layer
+2025-11-06T15:39:00: fix: memory leak in long-running Lambda
