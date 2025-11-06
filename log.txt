@@ -1524,3 +1524,4 @@
 2025-11-06T18:40:00: feat: add dbt model for Silver layer
 2025-11-06T15:39:00: fix: memory leak in long-running Lambda
 2025-11-06T08:02:00: fix: handle null values in stream processor
+2025-11-06T08:08:00: feat: add OpenSearch index mapping
