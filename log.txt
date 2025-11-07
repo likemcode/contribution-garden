@@ -1526,3 +1526,4 @@
 2025-11-06T08:02:00: fix: handle null values in stream processor
 2025-11-06T08:08:00: feat: add OpenSearch index mapping
 2025-11-07T16:25:00: feat: add dbt model for Silver layer
+2025-11-07T14:29:00: feat: add Snowflake connection utils
