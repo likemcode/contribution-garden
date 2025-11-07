@@ -1527,3 +1527,4 @@
 2025-11-06T08:08:00: feat: add OpenSearch index mapping
 2025-11-07T16:25:00: feat: add dbt model for Silver layer
 2025-11-07T14:29:00: feat: add Snowflake connection utils
+2025-11-07T18:04:00: docs: add architecture decision record
