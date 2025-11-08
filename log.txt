@@ -1530,3 +1530,4 @@
 2025-11-07T18:04:00: docs: add architecture decision record
 2025-11-07T17:37:00: feat: add schema validation
 2025-11-08T16:46:00: docs: add deployment notes
+2025-11-08T11:09:00: docs: document API endpoints
