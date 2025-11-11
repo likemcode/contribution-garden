@@ -1541,3 +1541,4 @@
 2025-11-10T10:37:00: docs: update architecture notes
 2025-11-10T18:43:00: docs: add deployment notes
 2025-11-11T08:21:00: chore: add gitignore entries
+2025-11-11T10:28:00: docs: update README
