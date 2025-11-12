@@ -1548,3 +1548,4 @@
 2025-11-12T18:29:00: fix: memory leak in long-running Lambda
 2025-11-12T17:31:00: docs: add data dictionary
 2025-11-12T11:39:00: feat: add CDC event handler
+2025-11-12T15:52:00: refactor: use dataclasses instead of dicts
