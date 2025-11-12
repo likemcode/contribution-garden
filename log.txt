@@ -1546,3 +1546,4 @@
 2025-11-11T21:36:00: feat: add Kafka consumer group offset tracking
 2025-11-11T10:36:00: chore: update dependencies
 2025-11-12T18:29:00: fix: memory leak in long-running Lambda
+2025-11-12T17:31:00: docs: add data dictionary
