@@ -1553,3 +1553,4 @@
 2025-11-12T08:50:00: chore: update dependencies
 2025-11-13T14:58:00: fix: handle null values in stream processor
 2025-11-13T13:01:00: docs: add data dictionary
+2025-11-13T14:47:00: feat: add retry logic with exponential backoff
