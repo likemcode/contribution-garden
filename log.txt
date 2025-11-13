@@ -1551,3 +1551,4 @@
 2025-11-12T15:52:00: refactor: use dataclasses instead of dicts
 2025-11-12T18:08:00: fix: encoding issue in CSV parser
 2025-11-12T08:50:00: chore: update dependencies
+2025-11-13T14:58:00: fix: handle null values in stream processor
