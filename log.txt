@@ -1558,3 +1558,4 @@
 2025-11-14T08:33:00: refactor: clean up Lambda function
 2025-11-14T13:12:00: docs: document API endpoints
 2025-11-17T16:38:00: feat: add OpenSearch index mapping
+2025-11-17T19:38:00: chore: add gitignore entries
