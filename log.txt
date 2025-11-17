@@ -1559,3 +1559,4 @@
 2025-11-14T13:12:00: docs: document API endpoints
 2025-11-17T16:38:00: feat: add OpenSearch index mapping
 2025-11-17T19:38:00: chore: add gitignore entries
+2025-11-17T09:40:00: feat: add Kafka consumer group offset tracking
