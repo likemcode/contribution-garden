@@ -1563,3 +1563,4 @@
 2025-11-18T18:49:00: refactor: split monolithic processor
 2025-11-19T09:57:00: docs: add data dictionary
 2025-11-19T14:32:00: chore: add pre-commit hooks
+2025-11-19T21:08:00: docs: add architecture decision record
