@@ -1572,3 +1572,4 @@
 2025-11-21T18:02:00: refactor: use dataclasses instead of dicts
 2025-11-21T12:50:00: feat: implement DLQ replay mechanism
 2025-11-21T17:09:00: chore: add pre-commit hooks
+2025-11-21T13:00:00: feat: implement guardrails for AI responses
