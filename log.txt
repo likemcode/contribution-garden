@@ -1582,3 +1582,4 @@
 2025-11-22T16:51:00: chore: bump boto3 version
 2025-11-24T19:52:00: feat: add OpenSearch index mapping
 2025-11-24T20:11:00: refactor: improve data pipeline logic
+2025-11-25T18:41:00: feat: add Kafka consumer group offset tracking
