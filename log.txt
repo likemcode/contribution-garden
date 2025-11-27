@@ -1587,3 +1587,4 @@
 2025-11-26T15:42:00: docs: add architecture decision record
 2025-11-26T17:22:00: feat: implement guardrails for AI responses
 2025-11-26T14:37:00: refactor: split monolithic processor
+2025-11-27T08:19:00: docs: update README
