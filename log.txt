@@ -1595,3 +1595,4 @@
 2025-11-29T18:54:00: feat: add retry logic with exponential backoff
 2025-12-01T10:12:00: chore: add pre-commit hooks
 2025-12-01T22:44:00: refactor: use dataclasses instead of dicts
+2025-12-01T08:08:00: fix: resolve race condition in event consumer
