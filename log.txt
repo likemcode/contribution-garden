@@ -1616,3 +1616,4 @@
 2025-12-15T20:01:00: refactor: use dataclasses instead of dicts
 2025-12-16T12:36:00: feat: implement guardrails for AI responses
 2025-12-16T19:26:00: feat: add dbt model for Silver layer
+2025-12-16T22:24:00: fix: handle null values in stream processor
