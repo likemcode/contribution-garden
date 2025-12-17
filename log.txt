@@ -1621,3 +1621,4 @@
 2025-12-17T08:57:00: docs: add data dictionary
 2025-12-17T08:44:00: feat: add OpenSearch index mapping
 2025-12-17T16:58:00: refactor: improve data pipeline logic
+2025-12-17T17:07:00: docs: update architecture notes
