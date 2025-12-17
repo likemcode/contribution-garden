@@ -1619,3 +1619,4 @@
 2025-12-16T22:24:00: fix: handle null values in stream processor
 2025-12-16T18:32:00: fix: timeout handling in API calls
 2025-12-17T08:57:00: docs: add data dictionary
+2025-12-17T08:44:00: feat: add OpenSearch index mapping
