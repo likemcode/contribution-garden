@@ -1623,3 +1623,4 @@
 2025-12-17T16:58:00: refactor: improve data pipeline logic
 2025-12-17T17:07:00: docs: update architecture notes
 2025-12-18T12:22:00: feat: add Kafka consumer group offset tracking
+2025-12-18T09:09:00: fix: memory leak in long-running Lambda
