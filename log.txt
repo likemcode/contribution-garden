@@ -1625,3 +1625,4 @@
 2025-12-18T12:22:00: feat: add Kafka consumer group offset tracking
 2025-12-18T09:09:00: fix: memory leak in long-running Lambda
 2025-12-19T20:57:00: refactor: extract config to env vars
+2025-12-19T20:24:00: feat: add retry logic with exponential backoff
