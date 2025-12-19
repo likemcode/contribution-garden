@@ -1627,3 +1627,4 @@
 2025-12-19T20:57:00: refactor: extract config to env vars
 2025-12-19T20:24:00: feat: add retry logic with exponential backoff
 2025-12-19T19:02:00: docs: add deployment notes
+2025-12-19T16:21:00: fix: handle null values in stream processor
