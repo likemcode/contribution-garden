@@ -1631,3 +1631,4 @@
 2025-12-23T16:41:00: chore: add pre-commit hooks
 2025-12-23T14:07:00: fix: resolve race condition in event consumer
 2025-12-25T17:22:00: fix: memory leak in long-running Lambda
+2025-12-25T17:08:00: docs: document API endpoints
