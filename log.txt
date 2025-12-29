@@ -1633,3 +1633,4 @@
 2025-12-25T17:22:00: fix: memory leak in long-running Lambda
 2025-12-25T17:08:00: docs: document API endpoints
 2025-12-25T12:31:00: feat: implement guardrails for AI responses
+2025-12-29T14:19:00: feat: implement DLQ replay mechanism
