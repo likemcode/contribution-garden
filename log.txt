@@ -1638,3 +1638,4 @@
 2025-12-29T14:37:00: refactor: extract config to env vars
 2025-12-31T22:18:00: docs: update README
 2025-12-31T13:24:00: docs: update README
+2025-12-31T22:59:00: docs: update architecture notes
