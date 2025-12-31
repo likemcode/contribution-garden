@@ -1636,3 +1636,4 @@
 2025-12-29T14:19:00: feat: implement DLQ replay mechanism
 2025-12-29T09:49:00: docs: add architecture decision record
 2025-12-29T14:37:00: refactor: extract config to env vars
+2025-12-31T22:18:00: docs: update README
