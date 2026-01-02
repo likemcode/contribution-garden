@@ -1640,3 +1640,4 @@
 2025-12-31T13:24:00: docs: update README
 2025-12-31T22:59:00: docs: update architecture notes
 2025-12-31T15:46:00: chore: update dependencies
+2026-01-02T17:02:00: docs: document API endpoints
