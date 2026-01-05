@@ -1643,3 +1643,4 @@
 2026-01-02T17:02:00: docs: document API endpoints
 2026-01-02T18:37:00: feat: implement DLQ replay mechanism
 2026-01-05T19:34:00: refactor: improve data pipeline logic
+2026-01-05T14:36:00: docs: add deployment notes
