@@ -1644,3 +1644,4 @@
 2026-01-02T18:37:00: feat: implement DLQ replay mechanism
 2026-01-05T19:34:00: refactor: improve data pipeline logic
 2026-01-05T14:36:00: docs: add deployment notes
+2026-01-05T17:40:00: feat: add CDC event handler
