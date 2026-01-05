@@ -1648,3 +1648,4 @@
 2026-01-05T18:24:00: feat: implement DLQ replay mechanism
 2026-01-05T08:11:00: chore: bump boto3 version
 2026-01-05T13:10:00: feat: add schema validation
+2026-01-05T18:16:00: feat: add Power BI dataset refresh trigger
