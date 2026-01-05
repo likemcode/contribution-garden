@@ -1646,3 +1646,4 @@
 2026-01-05T14:36:00: docs: add deployment notes
 2026-01-05T17:40:00: feat: add CDC event handler
 2026-01-05T18:24:00: feat: implement DLQ replay mechanism
+2026-01-05T08:11:00: chore: bump boto3 version
