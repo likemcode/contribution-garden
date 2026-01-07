@@ -1650,3 +1650,4 @@
 2026-01-05T13:10:00: feat: add schema validation
 2026-01-05T18:16:00: feat: add Power BI dataset refresh trigger
 2026-01-07T19:18:00: docs: add deployment notes
+2026-01-07T08:09:00: fix: timeout handling in API calls
