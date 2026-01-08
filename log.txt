@@ -1652,3 +1652,4 @@
 2026-01-07T19:18:00: docs: add deployment notes
 2026-01-07T08:09:00: fix: timeout handling in API calls
 2026-01-07T20:27:00: feat: implement DLQ replay mechanism
+2026-01-08T15:52:00: refactor: extract config to env vars
