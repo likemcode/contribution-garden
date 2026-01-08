@@ -1654,3 +1654,4 @@
 2026-01-07T20:27:00: feat: implement DLQ replay mechanism
 2026-01-08T15:52:00: refactor: extract config to env vars
 2026-01-08T08:12:00: docs: document API endpoints
+2026-01-08T12:23:00: feat: add CDC event handler
