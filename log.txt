@@ -1656,3 +1656,4 @@
 2026-01-08T08:12:00: docs: document API endpoints
 2026-01-08T12:23:00: feat: add CDC event handler
 2026-01-12T18:22:00: refactor: clean up Lambda function
+2026-01-12T20:30:00: feat: add dbt model for Silver layer
