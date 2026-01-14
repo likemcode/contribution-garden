@@ -1669,3 +1669,4 @@
 2026-01-14T21:15:00: chore: bump boto3 version
 2026-01-14T22:45:00: feat: implement DLQ replay mechanism
 2026-01-14T15:02:00: fix: encoding issue in CSV parser
+2026-01-14T10:25:00: refactor: extract config to env vars
