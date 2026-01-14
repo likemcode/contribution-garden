@@ -1667,3 +1667,4 @@
 2026-01-13T18:39:00: chore: bump boto3 version
 2026-01-14T10:52:00: feat: add dbt model for Silver layer
 2026-01-14T21:15:00: chore: bump boto3 version
+2026-01-14T22:45:00: feat: implement DLQ replay mechanism
