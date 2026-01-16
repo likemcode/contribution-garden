@@ -1672,3 +1672,4 @@
 2026-01-14T10:25:00: refactor: extract config to env vars
 2026-01-15T19:04:00: docs: add deployment notes
 2026-01-15T19:55:00: chore: add pre-commit hooks
+2026-01-16T12:43:00: fix: memory leak in long-running Lambda
