@@ -1685,3 +1685,4 @@
 2026-01-19T22:00:00: feat: add retry logic with exponential backoff
 2026-01-19T20:36:00: fix: encoding issue in CSV parser
 2026-01-19T09:10:00: feat: add schema validation
+2026-01-20T10:14:00: docs: add architecture decision record
