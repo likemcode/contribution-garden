@@ -1694,3 +1694,4 @@
 2026-01-21T15:17:00: chore: add gitignore entries
 2026-01-21T13:59:00: docs: add deployment notes
 2026-01-21T10:37:00: refactor: clean up Lambda function
+2026-01-21T21:40:00: fix: encoding issue in CSV parser
