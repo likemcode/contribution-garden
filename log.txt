@@ -1697,3 +1697,4 @@
 2026-01-21T21:40:00: fix: encoding issue in CSV parser
 2026-01-21T08:15:00: feat: add Kafka consumer group offset tracking
 2026-01-21T21:57:00: refactor: use dataclasses instead of dicts
+2026-01-22T20:06:00: feat: add Snowflake connection utils
