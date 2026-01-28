@@ -1707,3 +1707,4 @@
 2026-01-27T19:11:00: fix: memory leak in long-running Lambda
 2026-01-27T14:44:00: fix: handle null values in stream processor
 2026-01-28T19:50:00: docs: add data dictionary
+2026-01-28T09:07:00: fix: handle null values in stream processor
