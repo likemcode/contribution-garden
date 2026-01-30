@@ -1713,3 +1713,4 @@
 2026-01-29T19:48:00: refactor: improve data pipeline logic
 2026-01-29T11:35:00: feat: implement DLQ replay mechanism
 2026-01-30T08:34:00: feat: add CDC event handler
+2026-01-30T17:43:00: fix: memory leak in long-running Lambda
