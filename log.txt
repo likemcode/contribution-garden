@@ -1722,3 +1722,4 @@
 2026-02-02T15:23:00: feat: add retry logic with exponential backoff
 2026-02-02T17:40:00: feat: add schema validation
 2026-02-02T18:41:00: chore: add gitignore entries
+2026-02-02T11:51:00: docs: add deployment notes
