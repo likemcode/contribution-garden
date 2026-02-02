@@ -1720,3 +1720,4 @@
 2026-02-01T19:49:00: feat: add Snowflake connection utils
 2026-02-02T19:56:00: docs: add architecture decision record
 2026-02-02T15:23:00: feat: add retry logic with exponential backoff
+2026-02-02T17:40:00: feat: add schema validation
