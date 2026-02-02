@@ -1723,3 +1723,4 @@
 2026-02-02T17:40:00: feat: add schema validation
 2026-02-02T18:41:00: chore: add gitignore entries
 2026-02-02T11:51:00: docs: add deployment notes
+2026-02-02T14:24:00: docs: add data dictionary
