@@ -1727,3 +1727,4 @@
 2026-02-03T09:26:00: docs: add architecture decision record
 2026-02-03T17:59:00: feat: add Snowflake connection utils
 2026-02-05T11:11:00: chore: bump boto3 version
+2026-02-05T09:54:00: fix: encoding issue in CSV parser
