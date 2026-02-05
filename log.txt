@@ -1726,3 +1726,4 @@
 2026-02-02T14:24:00: docs: add data dictionary
 2026-02-03T09:26:00: docs: add architecture decision record
 2026-02-03T17:59:00: feat: add Snowflake connection utils
+2026-02-05T11:11:00: chore: bump boto3 version
