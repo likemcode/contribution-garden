@@ -1732,3 +1732,4 @@
 2026-02-05T22:36:00: chore: add gitignore entries
 2026-02-06T08:15:00: refactor: use dataclasses instead of dicts
 2026-02-06T19:15:00: refactor: improve data pipeline logic
+2026-02-06T13:18:00: feat: add dbt model for Silver layer
