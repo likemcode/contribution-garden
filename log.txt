@@ -1735,3 +1735,4 @@
 2026-02-06T13:18:00: feat: add dbt model for Silver layer
 2026-02-06T21:42:00: feat: add schema validation
 2026-02-06T20:21:00: docs: document API endpoints
+2026-02-06T08:21:00: refactor: use dataclasses instead of dicts
