@@ -1730,3 +1730,4 @@
 2026-02-05T09:54:00: fix: encoding issue in CSV parser
 2026-02-05T13:56:00: docs: update architecture notes
 2026-02-05T22:36:00: chore: add gitignore entries
+2026-02-06T08:15:00: refactor: use dataclasses instead of dicts
