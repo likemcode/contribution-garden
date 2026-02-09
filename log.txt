@@ -1739,3 +1739,4 @@
 2026-02-09T10:59:00: fix: encoding issue in CSV parser
 2026-02-09T17:17:00: chore: add gitignore entries
 2026-02-09T20:50:00: refactor: extract config to env vars
+2026-02-09T12:37:00: refactor: split monolithic processor
