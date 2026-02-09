@@ -1737,3 +1737,4 @@
 2026-02-06T20:21:00: docs: document API endpoints
 2026-02-06T08:21:00: refactor: use dataclasses instead of dicts
 2026-02-09T10:59:00: fix: encoding issue in CSV parser
+2026-02-09T17:17:00: chore: add gitignore entries
