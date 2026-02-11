@@ -1746,3 +1746,4 @@
 2026-02-10T20:12:00: docs: document API endpoints
 2026-02-10T10:02:00: feat: add CDC event handler
 2026-02-10T21:23:00: feat: add retry logic with exponential backoff
+2026-02-11T08:39:00: fix: timeout handling in API calls
