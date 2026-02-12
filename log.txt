@@ -1749,3 +1749,4 @@
 2026-02-11T08:39:00: fix: timeout handling in API calls
 2026-02-11T16:11:00: chore: bump boto3 version
 2026-02-12T18:38:00: feat: add OpenSearch index mapping
+2026-02-12T14:11:00: feat: add schema validation
