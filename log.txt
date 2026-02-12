@@ -1754,3 +1754,4 @@
 2026-02-12T19:44:00: fix: resolve race condition in event consumer
 2026-02-12T21:11:00: chore: add gitignore entries
 2026-02-12T20:26:00: feat: add Kafka consumer group offset tracking
+2026-02-12T14:42:00: feat: add OpenSearch index mapping
