@@ -1760,3 +1760,4 @@
 2026-02-13T11:42:00: docs: add deployment notes
 2026-02-14T10:34:00: docs: update architecture notes
 2026-02-14T21:32:00: fix: timeout handling in API calls
+2026-02-14T11:05:00: fix: handle null values in stream processor
