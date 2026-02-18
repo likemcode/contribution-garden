@@ -1767,3 +1767,4 @@
 2026-02-16T20:44:00: docs: update README
 2026-02-17T22:53:00: fix: resolve race condition in event consumer
 2026-02-18T08:17:00: refactor: use dataclasses instead of dicts
+2026-02-18T17:34:00: refactor: split monolithic processor
