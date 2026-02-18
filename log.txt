@@ -1766,3 +1766,4 @@
 2026-02-16T17:07:00: fix: handle null values in stream processor
 2026-02-16T20:44:00: docs: update README
 2026-02-17T22:53:00: fix: resolve race condition in event consumer
+2026-02-18T08:17:00: refactor: use dataclasses instead of dicts
