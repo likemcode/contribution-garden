@@ -1785,3 +1785,4 @@
 2026-02-26T18:41:00: docs: add architecture decision record
 2026-02-26T10:28:00: refactor: use dataclasses instead of dicts
 2026-02-26T18:57:00: feat: implement DLQ replay mechanism
+2026-02-26T08:16:00: feat: add Snowflake connection utils
