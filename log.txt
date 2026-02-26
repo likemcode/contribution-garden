@@ -1782,3 +1782,4 @@
 2026-02-24T16:19:00: chore: bump boto3 version
 2026-02-24T20:18:00: chore: add gitignore entries
 2026-02-25T14:57:00: fix: resolve race condition in event consumer
+2026-02-26T18:41:00: docs: add architecture decision record
