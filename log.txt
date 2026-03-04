@@ -1790,3 +1790,4 @@
 2026-03-03T08:51:00: fix: handle null values in stream processor
 2026-03-03T21:41:00: feat: add OpenSearch index mapping
 2026-03-03T11:40:00: refactor: clean up Lambda function
+2026-03-04T20:54:00: docs: add architecture decision record
